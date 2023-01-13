@@ -4,7 +4,7 @@
 
 </a>
 
-<h1 align="center">Fundamentals guide</h1>
+<h1 align="center">Python Fundamentals guide</h1>
 
 ## Index
 
