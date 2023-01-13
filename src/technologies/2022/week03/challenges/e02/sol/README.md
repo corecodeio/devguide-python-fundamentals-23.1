@@ -33,6 +33,6 @@ FinAlgoritmo
 
 [Simple calculator](TBA)
 
-<iframe width="100%"
+<iframe width="100%" height="35%"
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
