@@ -35,3 +35,7 @@ FinAlgoritmo
 ## Video Solution 📹
 
 [Simple calculator](https://edpuzzle.com/assignments/637c55ea8a59d7410fb361d7/watch)
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
