@@ -34,9 +34,6 @@ We are always open to feedback to keep co-creating and improving the experience 
 - Week 2 : [Pseudocode](src/technologies/2022/week02)
 - Week 3 : [Pseudocode](src/technologies/2022/week03)
 - Week 4 : [Pseudocode](src/technologies/2022/week04)
-- Week 5 : [Pseudocode & Introduction to Javascript](src/technologies/2022/week05)
-- Week 6 : [JavaScript](src/technologies/2022/week06)
-- Week 7 : [JavaScript](src/technologies/2022/week07)
 
 ## 5. Installation links
 
