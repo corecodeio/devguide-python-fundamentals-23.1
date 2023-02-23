@@ -2,7 +2,7 @@
 
 ## Week goal 🏁
 
-<p>We will learn about some data types and their manipulation. For this week we will use a code editor, Python installed on the computer, live coding sessions and this guide.</p>
+<p>We will learn about some data types and their manipulation. For this week we will use a code editor, Python installed on your computer, live coding sessions and this guide.</p>
 
 ## Week subtopics
 
@@ -47,17 +47,21 @@
 2. [String index](./challenges/e04/desc)
 3. [Temperature](./challenges/e05/desc)
 
-## Week challenges (Wednesday)
+## Week challenges (Wednesday) 💻
 1. [Coming of age](./challenges/e06/desc)
 2. [Reverse](./challenges/e07/desc)
 3. [Space replacing](./challenges/e08/desc)
 
-## Week challenges (Thuersday)
+## Week challenges (Thuersday) 💻
 1. [Find largest element](./challenges/e09/desc)
 2. [Second largest element](./challenges/e10/desc)
 3. [Average](./challenges/e11/desc)
 
-## Week challenges (Saturday)
+## Week challenges (Saturday) 💻
 1. [Merge two lists without duplciates](./challenges/e12/desc)
 2. [Find Common Elements in Lists](./challenges/e13/desc)
 3. [Reverse Dictionary](./challenges/e14/desc)
+
+## Week links 🔗
+
+## Session links 🔗

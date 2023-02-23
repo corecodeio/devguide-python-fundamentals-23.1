@@ -34,6 +34,7 @@ We are always open to feedback to keep co-creating and improving the experience 
 - Week 2 : [Pseudocode](src/technologies/2022/week02)
 - Week 3 : [Pseudocode](src/technologies/2022/week03)
 - Week 4 : [Pseudocode](src/technologies/2022/week04)
+- Week 6 : [Python](src/technologies/2022/week06)
 
 ## 5. Installation links
 
@@ -59,6 +60,7 @@ Each code session will be recorded and uploaded to edpuzzle, if you could not at
 - [Walther Carrasco](https://github.com/wecarrasco)
 - [Yosef Maldonado](https://github.com/yosefmarr)
 - [Andres Reyes](https://github.com/andresryes)
+- [Daniel Lucas](https://github.com/danlgz)
 
 ## 10. More Help
 
