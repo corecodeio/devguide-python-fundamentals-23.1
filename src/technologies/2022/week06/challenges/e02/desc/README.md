@@ -1,12 +1,16 @@
-# What is x?
+#  Determinate if an number it's even or odd
 
-## JS Hero Link 🥋
+## Description
 
-[What is x?](https://www.jshero.net/en/koans/jsx01.html)
+Define a number variable and determinate if it's even or odd. Print the result.
 
-## Helpful Resources
+## Expected output
 
-1. [Javascript variables](https://www.w3schools.com/js/js_variables.asp)
+![expcted output](../../../assets/ch_e02_expected.png)
+
+## Helpuf resources
+
+- [Python booleans](https://www.w3schools.com/python/python_booleans.asp)
 
 ## How to submit my solution?
 

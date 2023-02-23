@@ -1,13 +1,14 @@
-# String: length
+# Find Common Elements in Lists
 
-## JS Hero Link 🥋
+## Description
 
-[String: length](https://www.jshero.net/en/koans/stringlength.html)
+Define two lists and print a new list with the common elements.
 
-## Helpful Resources
+## Expected output
 
-1. [MDN - String length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
-2. [String length property](https://www.w3schools.com/jsref/jsref_length_string.asp)
+![expcted output](../../../assets/ch_e13_expected.png)
+
+## Helpuf resources
 
 ## How to submit my solution?
 

@@ -1,13 +1,16 @@
-# String: toUpperCase()
+# Reverse Dictionary
 
-## JS Hero Link 🥋
+## Description
 
-[String: toUpperCase()](https://www.jshero.net/en/koans/stringupper.html)
+Define a dictionary and print a new dictionary with the keys and values swapped.
 
-## Helpful Resources
+## Expected output
 
-1. [MDN - String toUpperCase()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
-2. [MDN - String toLowerCase()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
+![expcted output](../../../assets/ch_e14_expected.png)
+
+## Helpuf resources
+[Loop dictionary](https://www.geeksforgeeks.org/iterate-over-a-dictionary-in-python/)
+[Inline dictionary loop](https://betterprogramming.pub/4-ways-to-write-one-liner-for-loops-in-python-e8c1db903ce2)
 
 ## How to submit my solution?
 

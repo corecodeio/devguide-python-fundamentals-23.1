@@ -1,13 +1,14 @@
-# Strings
+# Merge Lists without Duplicates
 
-## JS Hero Link 🥋
+## Description
 
-[Strings](https://www.jshero.net/en/koans/string.html)
+Define two lists and print a new list with the elements of both lists merged, without duplicates.
 
-## Helpful Resources
+## Expected output
 
-1. [MDN - String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
-2. [String concatenation](https://attacomsian.com/blog/javascript-string-concat)
+![expcted output](../../../assets/ch_e12_expected.png)
+
+## Helpuf resources
 
 ## How to submit my solution?
 

@@ -1,14 +1,16 @@
-# Functions
+# Reverse
 
-## JS Hero Link 🥋
+## Description
 
-[Functions](https://www.jshero.net/en/koans/function.html)
+Wirte a program that reverse a string based on a user input.
 
-## Helpful Resources
+## Expected output
 
-1. [Javascript functions](https://www.w3schools.com/js/js_function_definition.asp)
-2. [MDN - functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-3. [Javascript function syntax](https://javascriptcode.org/javascript-function-syntax/)
+![expcted output](../../../assets/ch_e07_expected.gif)
+
+## Helpuf resources
+
+- [Python string slicing](https://realpython.com/lessons/string-slicing/)
 
 ## How to submit my solution?
 

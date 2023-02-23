@@ -1,14 +1,14 @@
-# What is x? (function version)
+# Find Second Largest Element
 
-## JS Hero Link 🥋
+## Description
 
-[What is x? (function version)](https://www.jshero.net/en/koans/jsx05.html)
+Define a list of numbers and print the second largest number in the list.
 
-## Helpful Resources
+## Expected output
 
-1. [Javascript functions](https://www.w3schools.com/js/js_function_definition.asp)
-2. [MDN - functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-3. [Javascript function syntax](https://javascriptcode.org/javascript-function-syntax/)
+![expcted output](../../../assets/ch_e10_expected.png)
+
+## Helpuf resources
 
 ## How to submit my solution?
 

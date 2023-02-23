@@ -1,14 +1,14 @@
-# Parameters
+# Average
 
-## JS Hero Link 🥋
+## Description
 
-[Parameters](https://www.jshero.net/en/koans/parameter.html)
+Define a list of numbers and get the average.
 
-## Helpful Resources
+## Expected output
 
-1. [Javascript functions](https://www.w3schools.com/js/js_function_definition.asp)
-2. [MDN - functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-3. [Javascript function syntax](https://javascriptcode.org/javascript-function-syntax/)
+![expcted output](../../../assets/ch_e11_expected.png)
+
+## Helpuf resources
 
 ## How to submit my solution?
 

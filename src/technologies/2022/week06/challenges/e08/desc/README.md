@@ -1,14 +1,16 @@
-# Multiple functions
+# Space replacing
 
-## JS Hero Link 🥋
+## Description
 
-[Multiple functions](https://www.jshero.net/en/koans/function2.html)
+Write a program that replace the spaces with asterisks. Like this: `Hey! We are in Core Code.` -> `Hey!*We*are*in*Core*Code.` based on the user input.
 
-## Helpful Resources
+## Expected output
 
-1. [Javascript functions](https://www.w3schools.com/js/js_function_definition.asp)
-2. [MDN - functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-3. [Javascript function syntax](https://javascriptcode.org/javascript-function-syntax/)
+![expcted output](../../../assets/ch_e08_expected.gif)
+
+## Helpuf resources
+
+- [Python string slicing](https://realpython.com/lessons/string-slicing/)
 
 ## How to submit my solution?
 

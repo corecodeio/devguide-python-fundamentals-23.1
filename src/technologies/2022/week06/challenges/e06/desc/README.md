@@ -1,11 +1,29 @@
-# How to use MDN
+# Coming of age
 
 ## Description
 
-[MDN](https://developer.mozilla.org/en-US/docs/Web/javascript) is a repository that has Javascript documentation, this is the point of truth on how to use any Javascript expression, this repository will help you through all your developer life, by bringing descriptions and examples on how to use Javascript instructions.
+Write a program that tells if the user is of legal age based on a input.
 
-On the challenges, you will find that most of the helpful links are going to be redirecting you to an MDN page
+## Expected output
 
-## Video
+![expcted output](../../../assets/ch_e06_expected.gif)
 
-[How to use MDN](https://edpuzzle.com/assignments/6386b0babdd6134101230893/watch)
+## Helpuf resources
+
+- [Python conditions](https://www.w3schools.com/python/python_conditions.asp)
+
+## How to submit my solution?
+
+Add your solution to your README file
+
+## More Help?
+
+Slack us 😉
+
+# Solution
+
+## PLEASE DON'T CHECK THE SOLUTION UNTIL YOU HAVE FINISH YOURS
+
+### Take in mind that this is an example solution, your implementation can be different and that's ok
+
+[Solution](../sol)

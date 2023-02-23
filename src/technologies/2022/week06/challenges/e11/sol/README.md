@@ -1,13 +1,24 @@
-# Parameters
+# Average
 
 ## Solution 😎
 
-```javascript
-function echo(message) {
-  return message;
-}
+```python
+numbers = [4, 5, 34, 9, 12, 0, 873]
+
+total_sum = sum(numbers)
+count = len(numbers)
+average = total_sum / count
+
+print('numbers:', numbers)
+print('average:', average)
 ```
+
+We then calculate the sum of all the numbers in the list using the built-in `sum` function and store it in the variable `total_sum`.
+
+Next, we calculate the count of numbers in the list using the built-in `len` function and store it in the variable `count`.
+
+Finally, we calculate the average by dividing the `total_sum` by the count, we store it in the variable `average` and we print it.
 
 ## Video Solution 📹
 
-[Parameters](https://edpuzzle.com/assignments/6386b11e9c223b40f4f8cf82/watch)
+[Average](https://drive.google.com/file/d/1wVy6TnXmwOJvH6RZ1lASgoczbSAa3AdV/view?usp=sharing)

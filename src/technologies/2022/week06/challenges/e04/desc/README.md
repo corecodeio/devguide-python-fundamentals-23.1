@@ -1,12 +1,16 @@
-# Reassignment
+# String index
 
-## JS Hero Link 🥋
+## Description
 
-[Reassignment](https://www.jshero.net/en/koans/jsx02.html)
+Write a Python program that prompts the user for a string and then prints the first and last characters of the string. The program should print a message that says `"The first character is [first] and the last character is [last]."` where [first] is the first character of the string and [last] is the last character of the string.
 
-## Helpful Resources
+## Expected output
 
-1. [Javascript variables](https://www.w3schools.com/js/js_variables.asp)
+![expcted output](../../../assets/ch_e04_expected.gif)
+
+## Helpuf resources
+
+- [Python format](https://www.w3schools.com/python/ref_string_format.asp)
 
 ## How to submit my solution?
 

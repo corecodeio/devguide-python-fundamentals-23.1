@@ -1,12 +1,17 @@
-# Variables
+#  Weather suggestion
 
-## JS Hero Link 🥋
+## Description
 
-[Variables](https://www.jshero.net/en/koans/var.html)
+define two variables that indicates if it's raining or it's cold and if it’s raining and it’s cold suggest to bring a coat and an umbrella, if just it’s raining suggest to bring an umbrella, if just it’s cold suggest to brig a coat and if it isn’t raining and it isn’t cold suggest not to bring anything. Play with the possible options.
 
-## Helpful Resources
+## Expected output
 
-1. [Javascript variables](https://www.w3schools.com/js/js_variables.asp)
+![expcted output](../../../assets/ch_e01_expected.png)
+
+## Helpuf resources
+
+- [Python operators (arithmetic section)](https://www.w3schools.com/python/python_operators.asp)
+- [Python booleans](https://www.w3schools.com/python/python_booleans.asp)
 
 ## How to submit my solution?
 

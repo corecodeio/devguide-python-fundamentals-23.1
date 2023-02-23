@@ -1,17 +1,18 @@
-# Multiple functions
+# Space replacing
 
 ## Solution 😎
 
-```javascript
-function a() {
-  return 'Hello a!';
-}
+```python
+text = input()
 
-function b() {
-  return 'Hello b!';
-}
+result = text.replace(" ", "*")
+print(result)
 ```
+
+In this code, the the `input()` function prompts the user to enter their text that contains spaces. We then use the `replace()` method to replace all spaces in the string with asterisks. The `replace()` method takes two arguments: the first argument is the substring to be replaced (in this case, a space), and the second argument is the string to replace it with (in this case, an asterisk).
+
+The modified string is stored in a new variable called result, and we print it to verify that the replacement was successful.
 
 ## Video Solution 📹
 
-[Multiple functions](https://edpuzzle.com/assignments/6386b0e3b96ab7414068ea7d/watch)
+[Space replacing](https://drive.google.com/file/d/1Gn5ij_PI-rWRiIabjSw1izRmvofu2IrF/view?usp=sharing)

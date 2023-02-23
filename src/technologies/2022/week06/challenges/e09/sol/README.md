@@ -1,15 +1,17 @@
-# Function calls
+# Find Largest Element
 
 ## Solution 😎
 
-```javascript
-function greet() {
-  return 'Haydo!';
-}
+```python
+elements = [4, 5, 34, 9, 12, 0, 873]
+largest = max(elements)
 
-let salutation = greet();
+print('list:', elements)
+print('largest element:', largest)
 ```
+
+This code takes a list of numbers as input, and print the largest element in the list using the `max()` function.
 
 ## Video Solution 📹
 
-[Function calls](https://edpuzzle.com/assignments/6386b0f3c511ef40e3f47550/watch)
+[Find Largest Element](https://drive.google.com/file/d/1OWrlzsMTdh3SmeAyf7PvAEipdYB35b9P/view?usp=sharing)

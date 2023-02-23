@@ -1,12 +1,16 @@
-# Several variables
+# String greeting
 
-## JS Hero Link 🥋
+## Description
 
-[Several variables](https://www.jshero.net/en/koans/var2.html)
+Write a Python program that prompts the user for their name and age and then prints a greeting message. The program should print a message that says `"Hello, [name]! You are [age] years old."` where `[name]` and `[age]` are replaced with the values entered by the user.
 
-## Helpful Resources
+## Expected output
 
-1. [Javascript variables](https://www.w3schools.com/js/js_variables.asp)
+![expcted output](../../../assets/ch_e03_expected.gif)
+
+## Helpuf resources
+
+- [Python format](https://www.w3schools.com/python/ref_string_format.asp)
 
 ## How to submit my solution?
 
