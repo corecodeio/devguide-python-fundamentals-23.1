@@ -1,24 +1,20 @@
-# Convert a String to a Number!
+# Calculating Factorial of a Number
 
 ## Solution 😎
 
-```javascript
-// Solution 1
-const stringToNumber = function(str){
-  return Number(str);
-}
+```python
+def factorial(n):
+    if n == 1:
+        return 1
+    else:
+        return n * factorial(n-1)
 
-// Solution 2
-const stringToNumber = function(str){
-  return parseInt(str);
-}
+number = 5
+result = factorial(number)
 
-// Solution 3
-const stringToNumber = function(str){
-  return +str;
-}
+print("The factorial of", number, "is", result)
 ```
 
 ## Video Solution 📹
 
-[Convert a String to a Number!](https://edpuzzle.com/assignments/63be1fca883672415be0f901/watch)
+[Calculating Factorial of a Number](https://edpuzzle.com/assignments/63be1fca883672415be0f901/watch)

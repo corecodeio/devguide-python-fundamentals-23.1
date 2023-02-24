@@ -1,14 +1,15 @@
-# Convert a String to a Number!
+# Calculating Factorial of a Number
 
-## Kata Link 🥋
+## Description
 
-[Convert a String to a Number](https://www.codewars.com/kata/544675c6f971f7399a000e79/train/javascript)
+Write a Python function that calculates the factorial of a given positive integer using recursion.
+
+## Expected output
+![expected output](../../../assets/ch_12_expected.png)
 
 ## Helpful Resources
 
-1. [Type conversion](https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion)
-2. [JavaScript Type Conversions](https://www.programiz.com/javascript/type-conversion)
-3. [Number() vs parseInt()](https://thisthat.dev/number-constructor-vs-parse-int/)
+1. [Python recursion](https://www.w3schools.com/python/gloss_python_function_recursion.asp)
 
 ## How to submit my solution?
 
@@ -24,4 +25,4 @@ Slack us 😉
 
 ### Take in mind that this is an example solution, your implementation can be different and that's ok
 
-[Solution](../sol)
+[Calculating Factorial of a Number](../sol)

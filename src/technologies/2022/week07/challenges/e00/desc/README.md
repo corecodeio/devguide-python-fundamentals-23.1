@@ -1,13 +1,16 @@
-# String: substr()
+# Counting occurrences of letters in a string
 
-## JS Hero Link 🥋
+## Description
 
-[String: substr()](https://www.jshero.net/en/koans/stringsubstr.html)
+Define a string and print a dictionary containing the count of each letter (case-insensitive) in the string, ignore all characters that aren't letters.
+
+## Expected output
+![expected output](../../../assets/ch_00_expected.png)
 
 ## Helpful Resources
 
-1. [MDN - String substr()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substr)
-2. [MDN - String substring()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
+1. [Case-insensitive](https://techterms.com/definition/case-insensitive)
+2. [Check if a char is letter](https://www.entechin.com/python-check-if-character-is-letter-in-string/)
 
 ## How to submit my solution?
 

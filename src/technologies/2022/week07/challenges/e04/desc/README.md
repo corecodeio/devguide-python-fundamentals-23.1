@@ -1,13 +1,15 @@
-# Boolean
+# Printing Multiplication Tables
 
-## JS Hero Link 🥋
+## Description
 
-[Boolean](https://www.jshero.net/en/koans/bool.html)
+Write a Python program that takes an integer and prints the multiplication table for that number up to 10.
+
+## Expected output
+![expected output](../../../assets/ch_04_expected.png)
 
 ## Helpful Resources
 
-1. [NAND Logic table](https://testbook.com/learn/digital-electronics-nand-gate/)
-2. [What is a NAND gate](https://www.electrical4u.com/nand-gate/)
+1. [Python while](https://www.w3schools.com/python/python_while_loops.asp)
 
 ## How to submit my solution?
 

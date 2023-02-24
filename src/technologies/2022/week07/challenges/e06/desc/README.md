@@ -1,13 +1,15 @@
-# Objects
+# Checking for Palindromes
 
-## Kata Link 🥋
+## Description
 
-[Objects](https://www.codewars.com/kata/571f1eb77e8954a812000837/train/javascript)
+Write a Python program that takes a string and print True if the string is a palindrome (reads the same backward as forward), and False otherwise.
+
+## Expected output
+![expected output](../../../assets/ch_06_expected.png)
 
 ## Helpful Resources
 
-1. [3 Ways To Access Object Properties in JavaScript](https://dmitripavlutin.com/access-object-properties-javascript/)
-2. [MDN - Basics on Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+1. [Palindorme](https://examples.yourdictionary.com/palindrome-examples.html)
 
 ## How to submit my solution?
 

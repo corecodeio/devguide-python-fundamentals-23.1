@@ -1,12 +1,13 @@
-# Fahrenheit
+# Counting Even and Odd Numbers
 
-## JS Hero Link 🥋
+## Description
 
-[Fahrenheit](https://www.jshero.net/en/koans/fahrenheit.html)
+Write a Python program that takes a list of numbers and prints the number of even numbers and the number of odd numbers in the list.
+
+## Expected output
+![expected output](../../../assets/ch_03_expected.png)
 
 ## Helpful Resources
-
-1. [How to Convert Celsius (°C) to Fahrenheit (°F)](https://bit.ly/3ANq1eg)
 
 ## How to submit my solution?
 

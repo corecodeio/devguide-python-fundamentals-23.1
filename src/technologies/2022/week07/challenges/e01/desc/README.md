@@ -1,12 +1,15 @@
-# String: replace()
+# Flattening a List of Lists
 
-## JS Hero Link 🥋
+## Description
 
-[String: replace()](https://www.jshero.net/en/koans/replace.html)
+Define a list of lists and print a new list containing all the elements from all the sublists
+
+## Expected output
+![expected output](../../../assets/ch_01_expected.png)
 
 ## Helpful Resources
 
-1. [MDN - String replace()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
+1. [Python list methods](https://www.w3schools.com/python/python_ref_list.asp)
 
 ## How to submit my solution?
 

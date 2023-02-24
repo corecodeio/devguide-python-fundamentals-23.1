@@ -1,17 +1,37 @@
-# Convert number to reversed array of digits
+# Code complexity
 
-## Kata Link 🥋
+## Description
 
-[Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/javascript)
+See these two code fragment for get the same result and specify the code complexity and select the best option.
+
+**Computing the Sum of the First n Natural Numbers**
+
+Option 1:
+```python
+# Using a loop to compute the sum
+n = 10
+sum = 0
+for i in range(1, n+1):
+    sum += i
+print(sum)
+```
+
+Option 2:
+```python
+# Using the closed-form formula to compute the sum
+n = 10
+sum = n*(n+1)/2
+print(sum)
+
+```
 
 ## Helpful Resources
 
-1. [Type conversion](https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion)
-2. [JavaScript Type Conversions](https://www.programiz.com/javascript/type-conversion)
+1. [Big O notation](https://towardsdatascience.com/complexity-theory-101-introduction-to-big-o-bab99152ad44)
 
 ## How to submit my solution?
 
-Add your solution to your README file
+Write your solution to your README file
 
 ## More Help?
 

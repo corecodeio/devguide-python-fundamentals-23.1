@@ -1,19 +1,15 @@
-# Count strings in objects
+# Simple function
 
 ## Solution 😎
 
-```javascript
-function strCount(obj){
-  let count = 0
-  for (key in obj){
-    if (typeof obj[key] == 'string') count++;
-    if (typeof obj[key] == 'object') count+= strCount(obj[key]);
-  }
-  
-  return count
-}
+```python
+def func(param):
+  return param
+
+result = func('hola')
+print(result)
 ```
 
 ## Video Solution 📹
 
-[Count strings in objects](https://edpuzzle.com/assignments/63be1f5fc212cc410e644312/watch)
+[Simple function](https://edpuzzle.com/assignments/63be1f5fc212cc410e644312/watch)

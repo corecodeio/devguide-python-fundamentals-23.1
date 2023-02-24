@@ -1,12 +1,12 @@
-# Object syntax debug
+# Printing Even Numbers Using a While Loop
 
-## Kata Link 🥋
+## Description
+Write a Python program that uses a while loop to print out all the even numbers between 0 and 20, inclusive.
 
-[Object syntax debug](https://www.codewars.com/kata/56d8ae9237123036d3001b54/train/javascript)
+## Expected output
+![expected output](../../../assets/ch_08_expected.png)
 
 ## Helpful Resources
-
-1. [Objects in Javascript](https://www.w3schools.com/js/js_objects.asp)
 
 ## How to submit my solution?
 

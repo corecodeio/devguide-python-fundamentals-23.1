@@ -1,17 +1,21 @@
-# Extending JavaScript Objects: Get First & Last Array Element
+# Filtering a List of Strings by a Given Substring
 
 ## Solution 😎
 
-```javascript
-Array.prototype.first = function() {
-  return this[0];
-};
+```python
+words = ["apple", "banana", "cherry", "date", "elderberry"]
 
-Array.prototype.last = function() {
-  return this[this.length-1];
-};
+def sort_by_length(word_list):
+    return sorted(word_list, key=lambda x: len(x))
+
+sorted_words = sort_by_length(words)
+
+print("Original list:", words)
+print("The sorted list is:", sorted_words)
 ```
+
+In this program, we define a list of strings called `words`. We then define a function called `sort_by_length` that takes one argument `word_list`, sorts the list by length using the `sorted()` function and a lambda function that specifies the sorting key to be the length of each string, and returns the sorted list. We then call the `sort_by_length` function with the words list as an argument, and store the sorted list in a variable called `sorted_words`. Finally, we print out the sorted list.
 
 ## Video Solution 📹
 
-[Extending JavaScript Objects: Get First & Last Array Element](https://edpuzzle.com/assignments/63be1f70f9b1e6411576f311/watch)
+[Sorting a List of Strings by Length](https://edpuzzle.com/assignments/63be1f70f9b1e6411576f311/watch)

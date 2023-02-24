@@ -1,8 +1,26 @@
-# Get started with Codewars
+# Calculating Factorials
 
 ## Description
 
-Follow the following videos and learn how to register and interact with Codewars:
+Write a Python program that takes an integer and calculates its factorial.
 
-1. [Register in Codewars](https://edpuzzle.com/assignments/6386b435523cc9411e8ffd35/watch)
-2. [Codewars challenge interaction](https://edpuzzle.com/assignments/6386b44b9c223b40f4f994af/watch)
+## Expected output
+![expected output](../../../assets/ch_05_expected.png)
+
+1. [Factorial !](https://www.mathsisfun.com/numbers/factorial.html)
+
+## How to submit my solution?
+
+Add your solution to your README file
+
+## More Help?
+
+Slack us 😉
+
+# Solution
+
+## PLEASE DON'T CHECK THE SOLUTION UNTIL YOU HAVE FINISH YOURS
+
+### Take in mind that this is an example solution, your implementation can be different and that's ok
+
+[Solution](../sol)

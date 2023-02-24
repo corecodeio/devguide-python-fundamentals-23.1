@@ -1,14 +1,13 @@
-# Increment
+# Removing Duplicates from a List
 
-## JS Hero Link 🥋
+## Description
 
-[Increment](https://www.jshero.net/en/koans/increment.html)
+Define a list and returns a new list containing only the unique elements from the original list, in the same order.
+
+## Expected output
+![expected output](../../../assets/ch_02_expected.png)
 
 ## Helpful Resources
-
-1. [MDN - Increment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment)
-2. [MDN - Decrement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Decrement)
-3. [MDN - Addition](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition)
 
 ## How to submit my solution?
 

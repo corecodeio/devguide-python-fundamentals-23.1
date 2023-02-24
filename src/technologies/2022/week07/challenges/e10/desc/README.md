@@ -1,13 +1,16 @@
-# Extending JavaScript Objects: Get First & Last Array Element
+# Sorting a List of Strings by Length
 
-## Kata Link 🥋
+## Description
 
-[Extending JavaScript Objects: Get First & Last Array Element](https://www.codewars.com/kata/581351c40d8f13bc450008b8/train/javascript)
+Write a Python function that takes a list of strings as an argument and returns a new list of strings sorted by length. Use a lambda function to specify the sorting key.
+
+## Expected output
+![expected output](../../../assets/ch_10_expected.png)
 
 ## Helpful Resources
 
-1. [Objects in Javascript](https://www.w3schools.com/js/js_objects.asp)
-2. [Prototypal inheritance](https://javascript.info/prototype-inheritance)
+1. [Python functions](https://www.w3schools.com/python/python_functions.asp)
+2. [Python lambda](https://www.w3schools.com/python/python_lambda.asp)
 
 ## How to submit my solution?
 

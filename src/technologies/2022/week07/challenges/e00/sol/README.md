@@ -1,22 +1,23 @@
-# String: substr()
+# Counting occurrences of letters in a string
 
-## Solution 1 😎
+## Solution 😎
 
-```javascript
-function firstWord(str) {
-  let firstBlank = str.indexOf(' ');
-  return str.substring(0, firstBlank);
-}
-```
+```python
+string = '000 - HELLO! hello! HELLO! - 000'
 
-## Solution 2 😎
+letters = {}
 
-```javascript
-function firstWord(str) {
-  return str.substring(0, str.indexOf(' '));
-}
+for char in string.lower():
+  if char.isalpha():
+    if char in letters:
+      letters[char] += 1
+    else:
+      letters[char] = 1
+
+print('input:', string)
+print('result:', letters)
 ```
 
 ## Video Solution 📹
 
-[String: substr()](https://edpuzzle.com/assignments/6386b2ca7e86f04117b1f5c6/watch)
+[Counting occurrences of letters in a string](https://edpuzzle.com/assignments/6386b2ca7e86f04117b1f5c6/watch)

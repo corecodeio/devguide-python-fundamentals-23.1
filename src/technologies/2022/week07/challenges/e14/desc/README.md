@@ -1,12 +1,19 @@
-# Truthy and Falsy
+# Code Refactor
 
-## Kata Link 🥋
+## Description
 
-[Truthy and Falsy](https://www.codewars.com/kata/595c2988d946a13298000157/train/javascript)
+See the following code snippet and suggest a way to be more efficient.
+
+```python
+# Inefficient code example: calculating the sum of all odd numbers between 1 and 1000000
+total = 0
+for i in range(1, 1000000):
+    if i % 2 == 1:
+        total += i
+print(total)
+```
 
 ## Helpful Resources
-
-1. [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) and [Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) values
 
 ## How to submit my solution?
 

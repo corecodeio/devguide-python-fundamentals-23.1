@@ -1,12 +1,13 @@
-# Return to sanity
+# Counting the Number of Characters in a String Using a For Loop
 
-## Kata Link 🥋
+## Description
 
-[Return to sanity](https://www.codewars.com/kata/514a7ac1a33775cbb500001e/train/javascript)
+Write a Python program that prompts the user to enter a string, and then uses a for loop to count the number of characters in the string whitout the `len()` function.
+
+## Expected output
+![expected output](../../../assets/ch_07_expected.gif)
 
 ## Helpful Resources
-
-1. [MDN - return](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
 
 ## How to submit my solution?
 

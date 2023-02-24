@@ -1,12 +1,12 @@
-# Count strings in objects
+# Simple function
 
-## Kata Link 🥋
+## Description
 
-[Count strings in objects](https://www.codewars.com/kata/565b3542af398bfb50000003/train/javascript)
+Define a function that recieves one param and return it.
 
 ## Helpful Resources
 
-1. [Objects in Javascript](https://www.w3schools.com/js/js_objects.asp)
+1. [Python functions](https://www.w3schools.com/python/python_functions.asp)
 
 ## How to submit my solution?
 
