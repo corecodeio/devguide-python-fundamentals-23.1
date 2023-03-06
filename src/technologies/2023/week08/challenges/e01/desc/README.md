@@ -6,17 +6,16 @@
 
 <h1 align="center">Description</h1>
 
-# Sorting a List of Strings by Length Using Bubble Sort
+# Sorting a List of Zip Codes Using Selection Sort
 
 ## Description
 
-Given a list of strings, sort them by length in ascending order using the bubble sort algorithm.
+Given a list of zip codes, sort them in ascending order using the selection sort algorithm.
 
 ## Expected output
 ```python
-input = ["abc", "a", "ab", "abcd", "abcde"]
-output = bubble_sort(input)
-print(output) # ["a", "ab", "abc", "abcd", "abcde"]
+input = ["12345", "1234", "123456", "123", "1234567"]
+output = selection_sort(input) # ["123", "1234", "12345", "123456", "1234567"]
 ``` 
 
 ## Helpful Resources
