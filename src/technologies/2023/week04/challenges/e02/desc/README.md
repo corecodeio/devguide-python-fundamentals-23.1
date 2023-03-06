@@ -1,83 +1,76 @@
-# Predefined functions
+# Structure of a function
 
 ## Description
 
-The predefined functions of pseint, are codes already integrated in the program to be used when the user requires it, normally they are mathematical functions or functions for text strings.
+You have seen predefined functions of PSeInt, and now it's your turn to create your own functions :sunglasses: If the selected language profile allows it, new functions or processes in an algorithm can be declared in Pseudocode. 
 
+## Signature of a function
+The syntax for this is as follows:
+
+```python
+Funcion Type ReturnValue <- FunctionName ( Type arg1, Type arg2,...)
+ DoSomething;
+ DoSomethingAgain;
+ .
+ .
+ .
+ DoLastAction;
+FinFuncion
 ```
-  - Predefined functions
-    - Maths
-        - abs
-        - trunc
-        - redon
-        - azar
-    - Chain
-        - longitud
-        - mayusculas
-        - minusculas
-        - subcadena
-```
 
-## abs
+You can also see the signature from the UI hints/help section of PSeInt:
 
-Returns the absolute value of the number.
+![Signature](../../../assets/ch_e02_result.png 'Signature')
 
-![PSeInt live coding](../../../assets/abs_gif.gif 'PSeInt live coding')
 
-![Result](../../../assets/003.jpg 'Result')
+It starts with the keyword `Funcion` (or `SubProceso`, they are equivalent) followed by the `type` of the return variable (real, integer, string, etc.), the name of the return variable, the assignment symbol (<-), the name of the function, and finally, the list of arguments in parentheses with its corresponding Type before the name.
 
-## truc
+**NOTE:** New versions of PSeInt allows to omit the type of the return value and args/params.
 
-Returns the integer part of the number.
+**Variants**
+- If the function does not return a value, the name and arguments can be placed directly after the `Funcion` keyword.
+- If the function does not receive any value, the parentheses can be placed empty or omitted, ending the first line with the name of the function.
 
-![PSeInt live coding](../../../assets/trunc_gif.gif 'PSeInt live coding')
+### Naming convention
+As we've seen with some built-in functions from PSeInt, the standard determines the use of **Pascal case** (ex: PascalCaseFunction). However, you can use another case like **snake_case** to name your function and the program will work without any problem. Also, some people use **camelCase** for args and params.
 
-![Result](../../../assets/004.jpg 'Result')
+As I said before, you must need to get familiar with **snake_case** on the following Python module and I'll continue with this convention just to practice.
 
-## redon
+### Arguments and Params
+In addition, the `Por Valor` or `Por Referencia` keywords can optionally be added to indicate the type of passage in each argument. If not specified, arrays are passed by reference, all other expressions by value.
 
-Returns the nearest integer.
+1. Passing by reference: Implies that if the function modifies the argument, the variable that was used in the call will actually be modified.
+2. Passing by value: implies that the function operates with a copy of the variable (or the result of the expression) that was used in the call, so that the modifications applied by the function will not be reflected outside of it.
 
-![PSeInt live coding](../../../assets/redon_gif.gif 'PSeInt live coding')
+### Return values
+Can be none, or one of the known `types`: real, integer, string, etc.
 
-![Result](../../../assets/005.jpg 'Result')
+### Function call
+To call the function, its name must be used and the parameters between parentheses, which can be expressions only if the passage type is by reference. A call can itself be an instruction, but if the function returns a value, it can also be used as an operand within an expression.
 
-## azar
+### Equivalence with Math functions
 
-The azar(x) function returns a random integer from 0 to x-1. The function aleatorio(x,y) returns a random integer between x and y.
+Working with Pseudocode functions remember us to the math functions we use to invoke: they have a particular name, receive variables and we get a result. So, in this context, imagine you have to code the next function in PSeInt.
 
-![PSeInt live coding](../../../assets/azar_gif.gif 'PSeInt live coding')
+$$ f(x) = {x^2-2x+1} $$
 
-![Result](../../../assets/006.jpg 'Result')
+How we can do that? Make sure we need to wrap up our previous knowledge about Signature of a function:
 
-## longitud
+- Name: f(x)
+- Args: x (type: `Real`)
+- Return value: `Real`
 
-The longitud function returns the number of characters the string contains. If it does not contain any characters, it is considered a null or empty string and its length is zero.
+And we can call that function in PSeInt to get (for example) $f(2) = {1}$. Let's try it out: 
 
-![PSeInt live coding](../../../assets/longitud_gif.gif 'PSeInt live coding')
+![PSeInt live coding](../../../assets/ch_e02_math_function.gif 'PSeInt live coding')
 
-![Result](../../../assets/007.jpg 'Result')
+We can modify our program to receive the user input to evaluate `x`. The result must be something as the following output.
 
-## mayusculas
+![Result](../../../assets/ch_e02_math_function_result.png 'Result')
 
-Returns the passed string in uppercase.
+## Helpful Resources
+- [PSeInt documentation](https://explorandopluton.files.wordpress.com/2019/09/manual-pseint.pdf)
 
-![PSeInt live coding](../../../assets/mayusculas_gif.gif 'PSeInt live coding')
+## More Help?
 
-![Result](../../../assets/008.jpg 'Result')
-
-## minusculas
-
-Returns the passed string in lowercase.
-
-![PSeInt live coding](../../../assets/minusculas_gif.gif 'PSeInt live coding')
-
-![Result](../../../assets/009.jpg 'Result')
-
-## subCadena
-
-Returns a substring of text: Subcadena(string, from, to)
-
-![PSeInt live coding](../../../assets/subcadena_gif.gif 'PSeInt live coding')
-
-![Result](../../../assets/010.jpg 'Result')
+Slack us 😉

@@ -1,54 +1,47 @@
-<h1 align="center">Pseudocode & Pause Day - Week 4</h1>
+<h1 align="center">Pseudocode & End of Month - Week 4</h1>
 
 ## Week goal 🏁
 
-<p>We will be learning about what a Pseudocode is and its importance in software development. For this week we will be using a program called PSeInt, with this program we will understand the fundamental principles of programming</p>
+<p>We'll be practicing about Pseudocode through exercises that includes conditionals, loops and statements (i.e. control structures). For this week we will be using (again) PSeInt and getting started learning some initial concepts of <strong>Python language</strong>. You may wonder why the name of the algorithms or processes in PSeInt uses <i>snake case</i> naming style. It's simple: we're getting ready for our Python section. </p>
 
 ## Week subtopics
 
 - Functions
-
-  - Predefined functions
-
-    - Maths
-      - abs
-      - trunc
-      - redon
-      - azar
-    - Chain
-      - longitud
-      - mayusculas
-      - minusculas
-      - subcadena
-
   - Structure of a function
     - Signature of a function
-    - Name
+    - Naming convention
     - Arguments, Parameters
-    - Return Values
+    - Return values
     - Function call
+    - Equivalence with Math functions
+
+- Intro to Python
+  - What is?
+  - History
+  - Versions
+  - Documentation
+  - How to run Python
 
 ## Week challenges (Monday) 💻
 
-1. [Average sales and commission](./challenges/e00/desc)
-2. [Even or odd](./challenges/e01/desc/)
+1. [Ascending sort checker](./challenges/e00/desc)
+2. [Count numbers by range](./challenges/e01/desc/)
 
 ## Week challenges (Tuesday) 💻
 
-1. [Predefined functions](./challenges/e02/desc/)
-2. [Full name](./challenges/e03/desc/)
-3. [Throw dice](./challenges/e04/desc/)
+1. [Structure of a function](./challenges/e02/desc/)
+2. [Double and triple of a value](./challenges/e03/desc/)
+3. [Incremental count](./challenges/e04/desc/)
 
 ## Week challenges (Wednesday) 💻
 
-1. [Distance to zero](./challenges/e05/desc/)
-2. [Toss coin](./challenges/e06/desc/)
+1. [Vowel counter](./challenges/e05/desc/)
+2. [Factorial (recursive)](./challenges/e06/desc/)
 
-## Week challenges (Thursday) 💻
+## Week challenges (Saturday) 💻
 
-1. [Structure of a function](./challenges/e07/desc/)
-2. [Total price](./challenges/e08/desc/)
-3. [Reverse direction and size](./challenges/e09/desc/)
+1. [Python Intro](./challenges/e07/desc/)
+2. [Run Python](./challenges/e08/desc/)
 
 ## Week links 🔗
 

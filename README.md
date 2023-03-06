@@ -35,6 +35,7 @@ We are always open to feedback to keep co-creating and improving the experience 
 - Week 2 : [Pseudocode](src/technologies/2023/week02)
 - Week 3 : [Pseudocode](src/technologies/2023/week03)
 - Week 4 : [Pseudocode](src/technologies/2023/week04)
+- Week 5 : [Python](src/technologies/2023/week05)
 - Week 6 : [Python](src/technologies/2023/week06)
 - Week 7 : [Python](src/technologies/2023/week07)
 - Week 8 : [Python](src/technologies/2023/week08)
@@ -67,6 +68,7 @@ Each code session will be recorded and uploaded to edpuzzle, if you could not at
 - [Yosef Maldonado](https://github.com/yosefmarr)
 - [Andres Reyes](https://github.com/andresryes)
 - [Daniel Lucas](https://github.com/danlgz)
+- [Gustavo Méndez](https://github.com/gusmendez99)
 
 ## 10. More Help
 

@@ -1,16 +1,27 @@
-# Throw dice
+# Incremental count
 
 ## Description
 
-make a program that simulates the roll of 2 dice 10 times, and display for each roll the values ​​of the two dice separated by a space, in case the 2 dice throw the same value in addition to the result, add a string to the ending that says "the dice are the same".
+Make a program that makes a dynamic incremental count, that receives the following values from user input:
+- Initial value
+- Final value
+- Step
+
+Your `incremental_count` function have to print only the values between the desired range. The same function must be called with the `init`, `final` and `step` values from your main program, following the next signature: 
+- Name: incremental_count
+- Args: initial, final, step (`Real or Entero`)
+- Return value: None
+
+You can use a Do While (`Repetir Hasta Que` block) or a For Next (`Para Hasta`) loop (see docs).
 
 ## Expected output
 
-![example](./../../../assets/012.jpg 'example')
+![expected](./../../../assets/ch_e04_expected.png 'Expected')
 
 ## Helpful Resources
 
-1. [Predefined functions](../../e02/desc/)
+1. [Structure of a function](../../e02/desc/)
+2. [Do While / For Next docs (p.13)](https://www.itson.mx/oferta/isw/Documents/guia_pseint_2016.pdf)
 
 ## How to submit my solution?
 

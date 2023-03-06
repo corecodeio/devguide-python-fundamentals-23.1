@@ -1,17 +1,22 @@
-# Toss coin
+# Factorial (recursive)
 
 ## Description
 
-From the data we receive first a name and a value, then another name and another value, using the built-in function aleatorio() we simulate the flip of a coin,
-We must return the name of the winner in capital letters and the value I win, to avoid cheating, if a player puts a value of zero or negative, the opponent automatically wins, in case both cheat, "game canceled" is returned.
+Make a program with a **recursive function** that allows you to calculate the factorial of a number. Make a main process where an integer is read and the result of the factorial is displayed (return value from function and print final value after result retrieved).
+
+The signature of `calculate_factorial` function is:
+- Name: factorial
+- Args: limit (`Entero`)
+- Return value: fact (`Entero`)
 
 ## Expected output
 
-![example](./../../../assets/014.jpg 'example')
+![expected](./../../../assets/ch_e06_expected.png 'Expected')
 
 ## Helpful Resources
 
-1. [Predefined functions](../../e02/desc/)
+1. [Structure of a function](../../e02/desc/)
+2. [Factorial](https://es.wikipedia.org/wiki/Factorial)
 
 ## How to submit my solution?
 

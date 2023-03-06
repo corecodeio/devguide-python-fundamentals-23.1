@@ -1,40 +1,26 @@
-# Toss coin
+# Factorial (recursive)
 
 ## Solution 😎
 
 ```python
-Algoritmo tossCoin
-	
-	Escribir "enter the name of the first player"
-	leer player1
-	Escribir "enter the amount to play"
-	leer amount1
-	Escribir "enter the name of the second player"
-	leer player2
-	Escribir "enter the amount to play"
-	leer amount2
-	
-	SI amount1<=0 | amount2 <=0 Entonces
-		SI amount1<=0 & amount2 <=0 Entonces
-			Imprimir "game canceled"
-		SiNo
-			SI amount1<=0 Entonces
-				Imprimir "player wins: ", Mayusculas(player2), " amount won: 0"
-			SiNo
-				Imprimir "player wins: ", Mayusculas(player1), " amount won: 0"
-			FinSi
-		FinSi
+Funcion fact <- calculate_factorial(num)
+	Definir fact Como Entero;
+	Si num=1 Entonces
+		fact <- 1;
 	SiNo
-		SI Aleatorio(1,2) = 1 Entonces
-			Imprimir "player wins: ", Mayusculas(player1), " amount won: ", amount2
-		SiNo
-			Imprimir "player wins: ", Mayusculas(player2), " amount won: ", amount1
-		FinSi
+		fact <- num * calculate_factorial(num-1);
 	FinSi
-	
-FinAlgoritmo
+FinFuncion
+
+Proceso factorial
+	Definir limit Como Entero;
+	Escribir Sin Saltar "Factorial number to calculate:";
+	Leer limit;
+	Escribir "Factorial value is: ", calculate_factorial(limit);
+FinProceso
+
 ```
 
 ## Video Solution 📹
 
-[Toss coin](https://edpuzzle.com/assignments/637d8fbd9cdd24413bfcfa30/watch)
+[Factorial](TODO: Video here)

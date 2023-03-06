@@ -1,22 +1,30 @@
-# Distance to zero
+# Vowel counter
 
 ## Solution 😎
 
 ```python
-Algoritmo distanceToZero
-	Escribir "write a number"
-	leer maxDistance
-	Para count=1 Hasta 4 Con Paso 1 Hacer
-		Escribir "write a number"
-		leer num
-		SI Abs(num) > Abs(maxDistance) Entonces
-			maxDistance = num
-		FinSi
+Funcion res <- vowel_counter(text)
+	Definir text_length Como Entero
+	text_length = Longitud(text)
+	
+	Para i=0 Hasta text_length Hacer
+		Segun Subcadena(text, i, i) Hacer
+				"a", "e", "i", "o", "u":
+					res = res + 1
+		FinSegun
 	FinPara
-	Imprimir Trunc(maxDistance)
-FinAlgoritmo
+FinFuncion
+
+Proceso vowel_counter_process
+	Definir count Como Entero
+	Definir text Como Caracter
+	Escribir "Enter the text to count its vowels: "
+	Leer text
+	count = vowel_counter(text)
+	Escribir "Vowels in passed text: ", count
+FinProceso
 ```
 
 ## Video Solution 📹
 
-[Distance to zero](https://edpuzzle.com/assignments/637d8fbd1ac95640fd967a36/watch)
+[Vowel counter](TODO: Video here)

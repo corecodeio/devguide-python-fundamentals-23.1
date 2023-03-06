@@ -1,15 +1,17 @@
-# Average sales and commission
+# Ascending sort checker
 
 ## Description
 
-Make a program that asks how many sales the seller had, Once the number of sales is entered, ask for the value of each sale until all are entered, then return as a result the average value of sales, and the commission that the seller will take, If the seller had more than 5 sales, his commission will be 15% of the total value of the sales, if he sold 5 or less, his commission will be only 10%.
+Make a program that asks for a series of positive numbers (greater than or equal to zero) entered by keyboard, and determines if the series is in ascending order. The end of the series is given by a negative number (e.g. 3, 5, 7, 11, 13, 13, 13, 17, -1 is a ascending series). **Remember:** the last number can be any negative number.
+
+**Hint:** You should use a loop section to get the user input and check every input value. Don't forget we can enter duplicate values.
 
 ## Expected output
 
-![Screenshot 2022-12-12 at 20 03 55](https://user-images.githubusercontent.com/29307118/207208117-1e68f095-03fe-4aae-8852-d698f8949927.png)
-
+![expected](../../../assets/ch_e00_expected.png 'expected')
 
 ## Helpful Resources
+- [PSeInt loop documentation (p.44)](https://explorandopluton.files.wordpress.com/2019/09/manual-pseint.pdf)
 
 ## How to submit my solution?
 

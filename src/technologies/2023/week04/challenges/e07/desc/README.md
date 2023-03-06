@@ -1,59 +1,58 @@
-# Structure of a function
+# Python Intro
 
-## Description
+## Description 🐍
 
-The predefined functions of pseint, are codes already integrated in the program to be used when the user requires it, normally they are mathematical functions or functions for text strings.
+Python is a programming language used to develop applications of any kind. It is an interpretive language, which means that it is not necessary to transform it to process applications written in Python. Python is an interpreted language, which means that code is **executed line-by-line** rather than being compiled into machine code. 
 
-```
-  - Structure of a function
-    - Signature of a function
-    - Name
-    - Arguments, Parameters
-    - Return Values
-    - Function call
-```
+One of the key features of Python is its large standard library, which includes modules for many common programming tasks such as working with databases, networking, and file I/O. Python also has a large ecosystem of third-party libraries and frameworks that extend its capabilities even further.
 
-![example](../../../assets/015.jpg "Example")
+### How Python is translated into machine code
+Python is an interpreted language, which means that the source code is executed directly by the Python interpreter without being translated into machine code beforehand. However, the interpreter itself is written in a lower-level language such as C or C++, and this lower-level code is compiled into machine code.
 
-### Signature of a function
+When a Python program is executed, the interpreter reads each line of the code and translates it into bytecode, which is a low-level representation of the code that can be executed by the interpreter. This bytecode is then executed by the interpreter, which runs the program.
 
-The signature of a method or function defines its input and output. Include at least the name of the function or method and the number of its parameters. In some programming languages, you can include the type that the function returns or the type of its parameters.
+![dev](../../../assets/python_dev.gif 'Python Dev')
 
-### Name
+### History
 
-The name of a function allows us to separate it from the rest and locate it to be able to use it when necessary.
+Python was first conceived in the late 1980s by Guido van Rossum while working at the Dutch research institute CWI. He was inspired by several other programming languages, including ABC, Modula-3, and Lisp. 
 
-### Arguments, Parameters
+The inspiration for the name came from BBC’s TV Show – ‘Monty Python’s Flying Circus’, as he was a big fan of the TV show and also he wanted a short, unique and slightly mysterious name for his invention and hence he named it Python. The comedy series was creative and well random. It talks about everything. Thus it is slow and unpredictable, which made it very interesting.
 
-In the definition of a function the values ​​that are received are called parameters, but during the call the values ​​that are sent are called arguments.
+Today, Python is one of the most popular programming languages in the world, and is used for a wide range of applications including web development, scientific computing, artificial intelligence, and data analysis.
 
-### Return Values
 
-When a function returns a value, the call to the function is simply replaced by that returned value.
+### Versions
 
-### Function call
+The first version of Python, version 0.9.0, was released in February 1991. It was a simple language, with only a few basic data types and control structures. In 2000, **Python 2.0** was released, which included many new features such as list comprehensions and a garbage collector.
 
-Normally the call to a function will be made from the main function main(), although naturally it can also be from another function.
+In 2008, development of **Python 3.0** began. This version of Python included many improvements and new features, but it also introduced some changes that were not backward-compatible with previous versions of Python. This led to some controversy within the Python community, as developers had to decide whether to continue using Python 2 or switch to Python 3.
 
-## Example code
+![versions](../../../assets/python_versions.jpeg 'Versions')
 
-```python
-Funcion greetingPhrase <- SayHello (age)
-	Definir greetingPhrase Como Caracter;
-	SI age >= 18 Entonces
-		greetingPhrase = "Hello Mr. "
-	SiNo
-		greetingPhrase = "Hello"
-	FinSi
-Fin Funcion
+> Python 3.10.4 is the latest stable version. 
 
-Algoritmo example
-	Escribir "write first name:"
-	leer firstName
-	Escribir "write last name:"
-	leer lastName
-	Escribir  "how old are you?"
-	leer age
-	Imprimir SayHello(age), firstName, " ", lastName
-FinAlgoritmo
-```
+However, our suggestion is to use at least a version of **Python >= 3.8**. Multiple libraries that you may use in the future will work and will have compatibility with this version. You can see more about versions status [here](https://devguide.python.org/versions/).
+
+### Suggested Documentation
+
+[Official Docs](https://docs.python.org/3/)
+
+[Python for Beginners](https://www.pythonforbeginners.com/)
+
+[Real Python](https://realpython.com/)
+
+[Awesome Python Libs](https://github.com/vinta/awesome-python)
+
+
+
+## Final thoughts
+
+In this section we discuss about concepts, history and very basic info you may take in mind before diving into the world of Python programming. In the next [section](../../e08/desc/) we will do a hands-on to develop our first `Hello World` 🚀.
+
+## Helpful Resources
+- [Python Official Docs](https://docs.python.org/3/)
+
+## More Help?
+
+Slack us 😉
