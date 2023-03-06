@@ -1,4 +1,10 @@
-<h1 align="center"></h1>
+<a href="https://www.core-code.io/">
+
+![alt text](https://uploads-ssl.webflow.com/5eb2f56932c3562feab232e3/5f73550d00249e7e96c9f3de_Logo.png 'corecodeio')
+
+</a>
+
+<h1 align="center">Week 08</h1>
 
 ## Week goal 🏁
 <p>Here you will learn about Sorting and Searching Algorithms</p>
