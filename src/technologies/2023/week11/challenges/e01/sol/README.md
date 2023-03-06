@@ -1,4 +1,4 @@
-# Logic problem
+# Pandas
 
 ## Solution 😎
 
@@ -8,6 +8,6 @@ Your should post something like this
 
 ## Video Solution 📹
 
-[How to solve Numpy Exercises](https://edpuzzle.com/assignments/637d8d841ac95640fd95a221/watch)
+[How to solve Pandas Exercises](https://edpuzzle.com/assignments/637d8d841ac95640fd95a221/watch)
 
 
