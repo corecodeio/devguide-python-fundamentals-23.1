@@ -4,6 +4,7 @@
 
 ## Index
 
+- [Index](#index)
 - [1. How to use this guide](#1-how-to-use-this-guide)
 - [2. Introduction](#2-introduction)
 - [3. Feedback](#3-feedback)
@@ -30,12 +31,13 @@ We are always open to feedback to keep co-creating and improving the experience 
 
 ## 4. Technologies
 
-- Week 1 : [Algorithms](src/technologies/2022/week01)
-- Week 2 : [Pseudocode](src/technologies/2022/week02)
-- Week 3 : [Pseudocode](src/technologies/2022/week03)
-- Week 4 : [Pseudocode](src/technologies/2022/week04)
-- Week 6 : [Python](src/technologies/2022/week06)
-- Week 7 : [Python](src/technologies/2022/week07)
+- Week 1 : [Algorithms](src/technologies/2023/week01)
+- Week 2 : [Pseudocode](src/technologies/2023/week02)
+- Week 3 : [Pseudocode](src/technologies/2023/week03)
+- Week 4 : [Pseudocode](src/technologies/2023/week04)
+- Week 6 : [Python](src/technologies/2023/week06)
+- Week 7 : [Python](src/technologies/2023/week07)
+- Week 8 : [Python](src/technologies/2023/week08)
 
 ## 5. Installation links
 
