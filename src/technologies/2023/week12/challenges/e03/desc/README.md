@@ -12,7 +12,7 @@ You can literally call any API you want, for reference, you can pick one from th
 
 Code with the correct instruction to call an API using a Python library
 
-![json](../../assets/request.png)
+![json](../../../assets/request.png)
 
 
 ## How to submit my solution?

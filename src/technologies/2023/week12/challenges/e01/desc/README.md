@@ -18,7 +18,7 @@ You may want to install Flask and using a virtual env. More information in this 
 ## Expected output
 
 The expected output will be your name and age, like this example below
-![CV](../../assets/flask.png)
+![CV](../../../assets/flask.png)
 
 ## How to submit my solution?
 

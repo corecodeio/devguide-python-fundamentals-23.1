@@ -25,4 +25,4 @@ if __name__ == '__main__':
 
 ## Video Solution 📹
 
-[Flass app](https://edpuzzle.com/assignments/637c56024e4fab40e02c1ebd/watch)
+[Flask app](https://edpuzzle.com/assignments/637c56024e4fab40e02c1ebd/watch)
