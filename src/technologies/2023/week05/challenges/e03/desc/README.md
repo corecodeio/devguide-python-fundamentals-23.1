@@ -1,23 +1,14 @@
-# Mid point
+# Is Number
 
 ## Description
 
-write a function called midpoint that given 2 values ​​(can be negative) does not return the value of the midpoint between them
+Write a program that uses Python 3’s built-in function `input()` to accept user input. Then, use the `print()` function to display the message: `Is Number: {Boolean}` with the value of `True` if the input was a number.
 
--50,50 --> 0
-
-40, 80 --> 60
-
+**Hint:** strings in Python have a special built-in function, you don't need to develop a function or something else.
 
 ## Expected output
 
-```python
-Algoritmo exampleMidpPoint
-	Imprimir midPoint(40,80)
-FinAlgoritmo
-```
-
-![example](./../../../assets/e03.jpg 'example')
+![expected](./../../../assets/ch_e03_expected.png 'Expected')
 
 ## Helpful Resources
 

@@ -1,24 +1,12 @@
-# Sum of pairs
+# Hello user
 
 ## Description
 
-
-write a function called sumOfPairs that asks for a number from 1 to 100 indefinitely, if a negative number or greater than 100 is entered, it stops asking for more numbers and returns the sum of all the even numbers entered.
-
-4, 12 , 100, 11, -60 --> 116
-
-40, 121 --> 40
-
+Write a program that uses Python 3’s built-in function `input()` to accept user input. Then, use the `print()` function to display the message: `Hello {user}!`
 
 ## Expected output
 
-```python
-Algoritmo exampleSumOfPairs
-	Imprimir sumOfPairs()
-FinAlgoritmo
-```
-
-![example](./../../../assets/e02.jpg 'example')
+![expected](./../../../assets/ch_e02_expected.png 'Expected')
 
 ## Helpful Resources
 

@@ -1,41 +1,43 @@
-<h1 align="center">Pseudocode & Introduction to Javascript - Week 5</h1>
+<h1 align="center">Introduction to Python - Week 5</h1>
 
 ## Week goal 🏁
 
-<p></p>
+<p>Dive into Python, covering initial topics about its syntax and structures. You must be able to start coding_everything_in_snake_case_like_this 😁.</p>
 
 ## Week subtopics
 
-- Introduction to Javascript
-    - What is Javascript
-    - How Javascript is translated into machine code (just mention)
-    - History of Javascript
-    - Javascript Version
-    - MDN documentation
-    - How to run Javascript
-    - Web (default)
-    - Backend Runtime (node, deno...)
+- Introduction to Python
+  - Get Started
+    - Syntax
+    - Comments
+  - Variables
+    - Names
+    - Assign multiple values
+    - Output variables
+    - Global variables
+    - Exercises
+  - Data Types
+    - Numbers
+    - Booleans
+    - Operators
 
 ## Week challenges (Monday) 💻
 
-1. [Time Converter](./challenges/e00/desc)
-2. [Compare distances](./challenges/e01/desc/)
+1. [Install Python](./challenges/e00/desc)
 
 ## Week challenges (Tuesday) 💻
 
-1. End of month - Work on your README
-2. [Sum of pairs](./challenges/e02/desc/)
-3. [Mid point](./challenges//e03/desc/)
+1. [Comments](./challenges/e01/desc/)
+2. [Hello user](./challenges/e02/desc/)
 
 ## Week challenges (Wednesday) 💻
 
-1. [Cashier](./challenges/e04/desc/)
-2. [Weather average](./challenges/e05/desc/)
+1. [Is Number](./challenges/e03/desc/)
+2. [Sum & Mult](./challenges/e04/desc/)
 
 ## Week challenges (Thursday) 💻
-1. [If](./challenges/e06/desc)
-2. [While](./challenges/e07/desc/)
-3. [For](./challenges/e08/desc)
+1. [Variables](./challenges/e05/desc)
+2. [Practice vars](./challenges/e06/desc/)
 
 ## Week links 🔗
 

@@ -38,6 +38,10 @@
 1. [Vowel counter](./challenges/e05/desc/)
 2. [Factorial (recursive)](./challenges/e06/desc/)
 
+## Week challenges (Thursday) 💻
+
+1. End of month - Work on your README
+
 ## Week challenges (Saturday) 💻
 
 1. [Python Intro](./challenges/e07/desc/)

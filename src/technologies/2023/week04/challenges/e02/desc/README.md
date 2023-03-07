@@ -52,11 +52,11 @@ To call the function, its name must be used and the parameters between parenthes
 
 Working with Pseudocode functions remember us to the math functions we use to invoke: they have a particular name, receive variables and we get a result. So, in this context, imagine you have to code the next function in PSeInt.
 
-$$ f(x) = {x^2-2x+1} $$
+$$f(x) = {x^2-2x+1}$$
 
 How we can do that? Make sure we need to wrap up our previous knowledge about Signature of a function:
 
-- Name: f(x)
+- Name: f
 - Args: x (type: `Real`)
 - Return value: `Real`
 

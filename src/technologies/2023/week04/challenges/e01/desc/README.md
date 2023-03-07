@@ -6,7 +6,7 @@ You're assigned to count a certain number series and make a summary based on the
 
 ## Expected output
 
-![expected](./../../../assets/002.jpg 'expected')
+![expected](./../../../assets/ch_e01_expected.png 'Expected')
 
 ## Helpful Resources
 - [PSeInt loop documentation (p.44)](https://explorandopluton.files.wordpress.com/2019/09/manual-pseint.pdf)

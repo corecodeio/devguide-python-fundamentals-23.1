@@ -1,41 +1,19 @@
-# Cashier
+# Sum & Mult
 
 ## Solution 😎
 
 ```python
-Funcion balance <- cashier ()
-	Definir balance Como Real;
-	balance = 1000;
-	Repetir
-		Imprimir "select an option:";
-		Imprimir "a. to deposit.";
-		Imprimir "b. withdraw.";
-		Imprimir "c. go out.";
-		leer option
-		Si option = 'a' Entonces
-			balance = balance + deposit()
-		FinSi
-		Si option = 'b' Entonces
-			balance = balance - withdraw()
-		FinSi
-	Mientras Que option = "a" | option = "b"
-Fin Funcion
+# Take user input
+value_1 = int(input('Enter value 1: '))
+value_2 = int(input('Enter value 2: '))
+sum_result = value_1 + value_2
+mult_result = value_1 * value_2
 
-Funcion value <- deposit()
-	Imprimir "how much do you want to deposit:";
-	leer value
-FinFuncion
+print("Sum: {}".format(sum_result))
+print("Mult: {}".format(mult_result))
 
-Funcion value <- withdraw()
-	Imprimir "how much do you want to withdraw:";
-	leer value
-FinFuncion
-
-Algoritmo exampleCashier
-	Imprimir cashier()
-FinAlgoritmo
 ```
 
 ## Video Solution 📹
 
-[Cashier](https://edpuzzle.com/assignments/63a226842be19540f51638db/watch)
+[Sum & Mult](TODO: Video here)
