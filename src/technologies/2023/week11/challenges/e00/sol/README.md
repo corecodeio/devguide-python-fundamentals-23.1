@@ -8,6 +8,7 @@ Your should post something like this
 
 ## Video Solution 📹
 
-[How to solve Numpy Exercises](https://edpuzzle.com/assignments/637d8d841ac95640fd95a221/watch)
-
+<iframe width="100%" height="600px"
+ src="https://drive.google.com/file/d/1LBiiENfRbROFQgYQja1i_hAOTRMxci8i/view?usp=share_link">
+ </iframe>
 
