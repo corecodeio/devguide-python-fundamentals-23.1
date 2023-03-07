@@ -4,6 +4,9 @@
 
 Read the following Matplotlip tutorial, most of the content have been covered in the Learning Session. 
 
+[MatplotLib](https://www.w3schools.com/python/matplotlib_intro.asp)
+
+
 For this challenge you will have to create your very own chart with any data you like. You may use NumPy arrays, regular Python arrays, random samples, etc, any data you'd like. Feel free to get as creative as you want! 
 
 ![image](../../../assets/matplotlib.png)
