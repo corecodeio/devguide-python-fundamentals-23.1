@@ -1,15 +1,15 @@
-# Full name
+# Double and triple of a value
 
 ## Description
 
-Make a program that takes a first name and a last name, then returns a string with both values ​​with the first letter uppercase and the rest lowercase.
+Make a program that receives a value given by user input, and then calculates and prints its double and triple. You must write two functions named like `calculate_double` and `calculate_triple`, then call each other with the same input value.
 
 ## Expected output
 
-![example](./../../../assets/011.jpg 'example')
+![expected](./../../../assets/ch_e03_expected.png 'Expected')
 
 ## Helpful Resources
-1. [Predefined functions](../../e02/desc/)
+1. [Structure of a function](../../e02/desc/)
 
 ## How to submit my solution?
 

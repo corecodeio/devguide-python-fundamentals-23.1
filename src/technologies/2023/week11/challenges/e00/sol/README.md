@@ -1,4 +1,4 @@
-# Logic problem
+# NumPy
 
 ## Solution 😎
 

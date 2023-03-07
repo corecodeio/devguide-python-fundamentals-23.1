@@ -1,30 +1,35 @@
-# Even or odd
+# Count numbers by range
 
 ## Solution 😎
 
 ```python
-Algoritmo EvenOrOdd
-	Repetir
-		Escribir "write a number between 1 and 50"
-		leer num
-		SI  num < 1  | num > 50 Entonces
-			Imprimir 'invalid number'
-		FinSi
-	Mientras Que num < 1  | num > 50
+Algoritmo count_numbers_by_range
+	Definir input_quantity, negative_numbers_count, greater_than_sixty_count Como Entero;
+	Definir range_0_numbers_count Como Entero;
+	Definir X Como Real;
+	negative_numbers_count = 0;
+	greater_than_sixty_count = 0;
+	range_0_numbers_count = 0;
 	
-	par =  num % 2 = 0
-	
-	Para count=1 Hasta num Con Paso 1 Hacer
-		SI count % 2 = 0 & par Entonces
-			Imprimir count
+	Escribir 'Enter the series of numbers to count (10) below...';
+	Para input_quantity=1 Hasta 10 Hacer
+		Leer X;
+		Si X<0 Entonces
+			negative_numbers_count = negative_numbers_count+1;
 		FinSi
-		SI count % 2 = 1 & ~(par) Entonces
-			Imprimir count
+		Si X>60 Entonces
+			greater_than_sixty_count = greater_than_sixty_count+1;
+		FinSi
+		Si X>=30 Y X<=50 Entonces
+			range_0_numbers_count = range_0_numbers_count+1;
 		FinSi
 	FinPara
+	Escribir 'Negative numbers: ', negative_numbers_count;
+	Escribir 'Numbers > 60: ', greater_than_sixty_count;
+	Escribir 'Numbers between 30 - 50: ', range_0_numbers_count;
 FinAlgoritmo
 ```
 
 ## Video Solution 📹
 
-[Even or odd](https://edpuzzle.com/assignments/637d8f5676dec54118c42ce9/watch)
+[Count numbers by range](TODO: Video here)
