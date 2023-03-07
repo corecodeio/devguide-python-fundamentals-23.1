@@ -9,7 +9,7 @@ Funcion incremental_count(initial, final, step)
 	FinPara
 FinFuncion
 
-Proceso incremental_count_process
+Algoritmo incremental_count_process
 	Definir initial, final, step Como Real
 	Escribir "Enter the initial value: "
 	Leer initial
@@ -18,10 +18,10 @@ Proceso incremental_count_process
 	Escribir "Enter the step value: "
 	Leer step
 	incremental_count(initial, final, step)
-FinProceso
+FinAlgoritmo
 	
 ```
 
 ## Video Solution 📹
 
-[Incremental count](TODO: Video here)
+[Incremental count](https://drive.google.com/file/d/1W7PzQYHY7c8fbwYtWBDZCr9YmtP8wcfh/view?usp=share_link)

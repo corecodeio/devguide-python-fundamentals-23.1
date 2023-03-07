@@ -28,4 +28,4 @@ FinAlgoritmo
 
 ## Video Solution 📹
 
-[Ascending sort checker](TODO: Video here)
+[Ascending sort checker](https://drive.google.com/file/d/1m4d2MVxB8seCZeFUP13TM33abpax6vfx/view?usp=share_link)

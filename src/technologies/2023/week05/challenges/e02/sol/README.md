@@ -10,4 +10,4 @@ print("Hello, {}".format(name))
 
 ## Video Solution 📹
 
-[Hello user](TODO: Video here)
+[Hello user](https://drive.google.com/file/d/1T2EAzPdSn5AEMM0dw7JneZKja1Jz0a6t/view?usp=share_link)

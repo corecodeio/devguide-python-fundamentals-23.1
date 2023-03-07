@@ -12,15 +12,15 @@ Funcion fact <- calculate_factorial(num)
 	FinSi
 FinFuncion
 
-Proceso factorial
+Algoritmo factorial
 	Definir limit Como Entero;
 	Escribir Sin Saltar "Factorial number to calculate:";
 	Leer limit;
 	Escribir "Factorial value is: ", calculate_factorial(limit);
-FinProceso
+FinAlgoritmo
 
 ```
 
 ## Video Solution 📹
 
-[Factorial](TODO: Video here)
+[Factorial](https://drive.google.com/file/d/1YSAJLK5XI-_OW9eKeeb7b32DnUqhkiIC/view?usp=share_link)

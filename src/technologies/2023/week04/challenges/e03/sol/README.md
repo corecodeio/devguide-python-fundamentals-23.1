@@ -5,24 +5,25 @@
 ```python
 // Receives arg by value and return its double
 Funcion res <- calculate_double(num)
-	res <- num*2
+	res <- num * 2
 FinFuncion
 
+// Receives arg by value and return its triple
 Funcion res <- calculate_triple(num)
-	res <- num*3
+	res <- num * 3
 FinFuncion
 
-Proceso double_and_triple
-	Definir x, result Como Real
+Algoritmo double_and_triple
+	Definir new_number Como Real
 	Escribir "Enter the number to calculate its double and triple: "
-	Leer x
+	Leer new_number
 	Escribir "Calling function calculate_double(passed by value)"
-	Escribir "Double of ",x," is ", calculate_double(x)
+	Escribir "Double of ", new_number," is ", calculate_double(new_number)
 	Escribir "Calling function calculate_triple(passed by value)"
-	Escribir "Triple of ",x," is ", calculate_triple(x)
-FinProceso
+	Escribir "Triple of ", new_number," is ", calculate_triple(new_number)
+FinAlgoritmo
 ```
 
 ## Video Solution 📹
 
-[Double and triple of a value](TODO: Video here)
+[Double and triple of a value](https://drive.google.com/file/d/1cxdI1wnMvYjiZ98kounkgK0CQ4f-lUzN/view?usp=share_link)

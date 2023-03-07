@@ -13,4 +13,4 @@
 
 ## Video Solution 📹
 
-[Comments](TODO: Video here)
+[Comments](https://drive.google.com/file/d/1521FwLqHpCu0BZ3pawlUGimYks6PjPMv/view?usp=share_link)

@@ -27,4 +27,4 @@ FinProceso
 
 ## Video Solution 📹
 
-[Vowel counter](TODO: Video here)
+[Vowel counter](https://drive.google.com/file/d/1x2ySkSQsGC4_PXPVPZhX3p1j_gqbvNAj/view?usp=share_link)

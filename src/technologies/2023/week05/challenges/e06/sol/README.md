@@ -17,4 +17,4 @@ print(f"My name is {name}, I am {age} years old, and my height is {height:.2f} m
 
 ## Video Solution 📹
 
-[Practice vars](TODO: video here)
+[Practice vars](https://drive.google.com/file/d/1s-D07Utx6zdpoSvm8h_Dvh3HF6enMx_N/view?usp=share_link)
