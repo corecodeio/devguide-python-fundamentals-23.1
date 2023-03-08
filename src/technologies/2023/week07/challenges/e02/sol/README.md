@@ -1,4 +1,4 @@
-# Increment
+# Removing Duplicates from a List
 
 ## Solution 😎
 
@@ -18,4 +18,4 @@ print('list with unique elements in the same order:', unique)
 
 ## Video Solution 📹
 
-[Increment](https://edpuzzle.com/assignments/6386b30eca67c040c18d944e/watch)
+[Removing Duplicates from a List](https://drive.google.com/file/d/1czVXhb7MG5Ntc-KZIpwen_inVVYZP2NL/view?usp=sharing)

@@ -2,7 +2,7 @@
 
 ## Description
 
-See these two code fragment for get the same result and specify the code complexity and select the best option.
+See these two code fragment for get the same result and specify the code complexity of the code and select the best option.
 
 **Computing the Sum of the First n Natural Numbers**
 
@@ -22,12 +22,12 @@ Option 2:
 n = 10
 sum = n*(n+1)/2
 print(sum)
-
 ```
 
 ## Helpful Resources
 
 1. [Big O notation](https://towardsdatascience.com/complexity-theory-101-introduction-to-big-o-bab99152ad44)
+2. [Summation](https://en.wikipedia.org/wiki/Summation)
 
 ## How to submit my solution?
 

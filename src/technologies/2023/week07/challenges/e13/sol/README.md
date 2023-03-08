@@ -2,7 +2,7 @@
 
 ## Solution 😎
 
-Option 1:
+**Option 1:**
 ```python
 # Using a loop to compute the sum
 n = 10
@@ -13,7 +13,11 @@ print(sum)
 ```
 This code fragment uses a loop to compute the sum of the first n natural numbers, where n is set to 10 in this example. The time complexity of this code is `O(n)`, where n is the value of `n`. This is because the code must iterate through the `for` loop n times, adding each number to the running total.
 
-Option 2:
+**Option 2:**
+
+Summation formula:
+![Summation formula](../../../assets/ch_13_summation_formula.jpg)
+
 ```python
 # Using the closed-form formula to compute the sum
 n = 10
@@ -28,4 +32,4 @@ In general, if you only need to compute the sum of the first n natural numbers, 
 
 ## Video Solution 📹
 
-[Code complexity 1](https://edpuzzle.com/assignments/63be200e0dd256411db68652/watch)
+[Code complexity](https://drive.google.com/file/d/1MfVS6h0oQLhAeUEbf3H0p58i4BEH9C1t/view?usp=share_link)

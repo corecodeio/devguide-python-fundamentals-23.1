@@ -17,4 +17,4 @@ In this program, we use a for loop to iterate through the numbers 1 to the input
 
 ## Video Solution 📹
 
-[Calculating Factorials](https://edpuzzle.com/assignments/6386b331fbf1084156e46dda/watch)
+[Calculating Factorials](https://drive.google.com/file/d/1j08etyS9PM_ks32mAIHMvDN_PZXalg-I/view?usp=share_link)

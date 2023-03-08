@@ -14,4 +14,4 @@ In this program, we start with num set to 0, and use a while loop to iterate thr
 
 ## Video Solution 📹
 
-[Printing Even Numbers Using a While Loop](https://edpuzzle.com/assignments/6386b4aa184a0c4124e9b111/watch)
+[Printing Even Numbers Using a While Loop](https://drive.google.com/file/d/1zAqLSO-DhLp2zm0T8k-L_rsvyD8NKgCj/view?usp=share_link)

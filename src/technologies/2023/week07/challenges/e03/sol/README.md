@@ -22,4 +22,4 @@ In this program, we use a for loop to iterate through each number in the list. W
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Counting Even and Odd Numbers](https://drive.google.com/file/d/1GAp5H06nHVCflZCna1d0VRlUzcRCWW6g/view?usp=sharing)

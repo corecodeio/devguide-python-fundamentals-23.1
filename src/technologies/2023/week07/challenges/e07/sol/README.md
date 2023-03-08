@@ -2,7 +2,7 @@
 
 ## Solution 😎
 
-```javascript
+```python
 string = input("Enter a string: ")
 
 count = 0
@@ -16,4 +16,4 @@ In this program, we first prompt the user to enter a string using the `input()` 
 
 ## Video Solution 📹
 
-[Counting the Number of Characters in a String Using a For Loop](https://edpuzzle.com/assignments/6386b499be72ea40ca5bec43/watch)
+[Counting the Number of Characters in a String Using a For Loop](https://drive.google.com/file/d/1WTlQMnj93NwHwKJ1SC-gX7GsYcD9lUM_/view?usp=share_link)

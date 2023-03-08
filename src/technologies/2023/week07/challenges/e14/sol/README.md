@@ -27,4 +27,4 @@ In general, when writing Python code, it's important to consider the time and me
 
 ## Video Solution 📹
 
-[Code Refactor](https://edpuzzle.com/assignments/63be20ca339adf40fa50c48c/watch)
+[Code Refactor](https://drive.google.com/file/d/1K3gVU4KOF_-bEnjc7a3GGI8SBjjtJFG6/view?usp=share_link)

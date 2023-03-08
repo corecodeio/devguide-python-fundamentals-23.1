@@ -18,4 +18,4 @@ In this program, we define a list of strings called `words`. We then define a fu
 
 ## Video Solution 📹
 
-[Sorting a List of Strings by Length](https://edpuzzle.com/assignments/63be1f70f9b1e6411576f311/watch)
+[Sorting a List of Strings by Length](https://drive.google.com/file/d/1eQqvE_velWHbD1T-HZ-Mp9Pmp-dYCgz1/view?usp=share_link)

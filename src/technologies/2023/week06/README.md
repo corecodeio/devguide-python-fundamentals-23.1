@@ -58,7 +58,7 @@
 3. [Average](./challenges/e11/desc)
 
 ## Week challenges (Saturday) 💻
-1. [Merge two lists without duplciates](./challenges/e12/desc)
+1. [Merge two lists without duplicates](./challenges/e12/desc)
 2. [Find Common Elements in Lists](./challenges/e13/desc)
 3. [Reverse Dictionary](./challenges/e14/desc)
 

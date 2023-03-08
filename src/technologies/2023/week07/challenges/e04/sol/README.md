@@ -15,4 +15,4 @@ In this program, we use a while loop to iterate through the numbers 1 to 10. We 
 
 ## Video Solution 📹
 
-[Printing Multiplication Tables](https://edpuzzle.com/assignments/6386b331fbf1084156e46dda/watch)
+[Printing Multiplication Tables](https://drive.google.com/file/d/1pT9Aj3ZO2tEhcm7qFyaXAxXQZnLgdVsG/view?usp=sharing)

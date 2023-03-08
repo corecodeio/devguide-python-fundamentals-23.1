@@ -16,4 +16,4 @@ print("The filtered words are:", filtered_words)
 
 ## Video Solution 📹
 
-[Filtering a List of Strings by a Given Substring](https://edpuzzle.com/assignments/63be1fac7b20954154140ad6/watch)
+[Filtering a List of Strings by a Given Substring](https://drive.google.com/file/d/1JS5uCMXEc9_osU2b5TMFR0RtHaY7nycj/view?usp=share_link)

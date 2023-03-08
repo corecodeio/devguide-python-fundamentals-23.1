@@ -21,4 +21,4 @@ In this program, we convert the string to `lower-case` string, then we use a `Wh
 
 ## Video Solution 📹
 
-[Checking for Palindromes](https://edpuzzle.com/assignments/6386b331fbf1084156e46dda/watch)
+[Checking for Palindromes](https://drive.google.com/file/d/1E6IHiQWv1SnDTntyoylrrWibiR3W2i3X/view?usp=sharing)

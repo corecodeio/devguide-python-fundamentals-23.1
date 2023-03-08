@@ -12,4 +12,4 @@ print(result)
 
 ## Video Solution 📹
 
-[Simple function](https://edpuzzle.com/assignments/63be1f5fc212cc410e644312/watch)
+[Simple function](https://drive.google.com/file/d/1fT7uMgCRtYB69DKbI-6wxI2tfRRAerfF/view?usp=share_link)

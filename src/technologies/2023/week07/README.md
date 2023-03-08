@@ -45,5 +45,8 @@
 3. [Code Refactor](./challenges/e14/desc)
 
 ## Week links 
+[Asymptotic Notation](https://learnxinyminutes.com/docs/es-es/asymptotic-notation-es/)
+[Big O Notation (video)](https://www.youtube.com/watch?v=MyAiCtuhiqQ&ab_channel=ChioCode)
+[Time complexity with Python examples](https://towardsdatascience.com/understanding-time-complexity-with-python-examples-2bda6e8158a7)
 
 ## Session links 🔗
