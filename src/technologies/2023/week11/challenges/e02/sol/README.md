@@ -8,6 +8,5 @@ Your should post something like this
 
 ## Video Solution 📹
 
-[MatplotLib Solution](https://edpuzzle.com/assignments/637d8d841ac95640fd95a221/watch)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1IePOtTW6Io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
