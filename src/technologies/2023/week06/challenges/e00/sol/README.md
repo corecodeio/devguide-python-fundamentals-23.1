@@ -26,3 +26,5 @@ This code declares two variables, num1 and num2, and initializes them with integ
 ## Video Solution 📹
 
 [Arithmetic Operations](https://drive.google.com/file/d/1dST3hG5JpBtqKy3uvz5PW4KAr8oYsaMv/view?usp=share_link)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-HhzLbCgM9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
