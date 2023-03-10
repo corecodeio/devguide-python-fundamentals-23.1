@@ -20,3 +20,5 @@ print('result:', flattened_list)
 ## Video Solution 📹
 
 [Flattening a List of Lists](https://edpuzzle.com/assignments/6386bfcf7e4fbc41006e8862/watch)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-bKl6GH1xfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
