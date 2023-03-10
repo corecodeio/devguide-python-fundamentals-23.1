@@ -20,3 +20,5 @@ In this code, we first define a number with an integer value. We then use the mo
 ## Video Solution 📹
 
 [Determinate if an number it's even or odd](https://drive.google.com/file/d/1kG1vDZZzYC2dhEGFKSGDsRaIh0D5EQiO/view?usp=sharing)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3rWaqapEhQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
