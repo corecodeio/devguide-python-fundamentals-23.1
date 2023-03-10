@@ -23,3 +23,5 @@ We loop through each character in the input string, converting it to lowercase u
 ## Video Solution 📹
 
 [Counting occurrences of letters in a string](https://edpuzzle.com/assignments/6386b2ca7e86f04117b1f5c6/watch)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fDGqK1DiwcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
