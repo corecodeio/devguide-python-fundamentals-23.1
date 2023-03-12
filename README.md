@@ -39,6 +39,8 @@ We are always open to feedback to keep co-creating and improving the experience 
 - Week 6 : [Python](src/technologies/2023/week06)
 - Week 7 : [Python](src/technologies/2023/week07)
 - Week 8 : [Python](src/technologies/2023/week08)
+- Week 9 : [Python](src/technologies/2023/week09)
+- Week 10 : [Python](src/technologies/2023/week10)
 - Week 11 : [Python](src/technologies/2023/week11)
 - Week 12 : [Python](src/technologies/2023/week12)
 - Week 13 : [Python](src/technologies/2023/week13)
