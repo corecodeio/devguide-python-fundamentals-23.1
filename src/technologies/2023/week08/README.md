@@ -7,7 +7,7 @@
 <h1 align="center">Week 08</h1>
 
 ## Week goal 🏁
-<p>Here you will learn about Sorting and Searching Algorithms</p>
+<p>Here you will learn about Sorting and Searching Algorithms and Object Oriented Programming</p>
 
 ## Week subtopics
 
