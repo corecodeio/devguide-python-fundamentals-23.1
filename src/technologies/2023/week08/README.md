@@ -19,6 +19,11 @@
     - Linear Search
     - Binary Search
     - Interpolation Search
+  - Object Oriented Programming
+    - Classes/Objects
+    - Inheritance
+    - Arrays of Objects
+
 
 
 ## Week challenges (Monday) 💻
@@ -40,6 +45,14 @@
 1. [Sorting a List of Tuples based on Multiple Keys](./challenges/e06/desc)
 
 2. [Implementing Radix Sort to Sort a List of Integers](./challenges/e07/desc)
+
+## Week challenges (Saturday) 💻
+
+1. [Creating a Bank Account Class](./challenges/e08/desc)
+
+2. [Inheriting from a Parent Class](./challenges/e09/desc)
+
+3. [Creating an Array of Objects](./challenges/e10/desc)
 
 ## Week links 🔗
 
