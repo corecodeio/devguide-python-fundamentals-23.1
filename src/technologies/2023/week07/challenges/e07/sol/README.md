@@ -17,3 +17,4 @@ In this program, we first prompt the user to enter a string using the `input()` 
 ## Video Solution 📹
 
 [Counting the Number of Characters in a String Using a For Loop](https://drive.google.com/file/d/1WTlQMnj93NwHwKJ1SC-gX7GsYcD9lUM_/view?usp=share_link)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u5yoULq08gA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

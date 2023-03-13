@@ -18,3 +18,4 @@ In this program, we use a for loop to iterate through the numbers 1 to the input
 ## Video Solution 📹
 
 [Calculating Factorials](https://drive.google.com/file/d/1j08etyS9PM_ks32mAIHMvDN_PZXalg-I/view?usp=share_link)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BQMdGP0rPaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

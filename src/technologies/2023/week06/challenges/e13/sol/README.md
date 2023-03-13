@@ -17,3 +17,4 @@ This code takes two lists, and first converts them to sets using the `set()` fun
 ## Video Solution 📹
 
 [Find Common Elements in Lists](https://drive.google.com/file/d/12yzvG84fCMlpN8Rt2kn0LexoCPC84hur/view?usp=sharing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8JaRKMnMjXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

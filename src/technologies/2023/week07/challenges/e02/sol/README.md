@@ -19,3 +19,4 @@ print('list with unique elements in the same order:', unique)
 ## Video Solution 📹
 
 [Removing Duplicates from a List](https://drive.google.com/file/d/1czVXhb7MG5Ntc-KZIpwen_inVVYZP2NL/view?usp=sharing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-iEGP95x1H0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
