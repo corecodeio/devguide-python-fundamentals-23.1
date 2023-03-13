@@ -6,34 +6,33 @@
 
 <h1 align="center">Solution</h1>
 
-# Create a Try/Except where code is executed if no exception is raised and regardless of whether an exception is raised or not and specifically if an exception is raised 
+# Creating a requirements.txt File and Installing Dependencies in a Virtual Environment
 
 ## Solution 🏁
 
-```python
+```bash
 
 # create a simple function that takes a list and an index and returns the element at that index
-def get_element_at_index(my_list, index):
-    try:
-        return my_list[index]
-    except IndexError:
-        print(f"IndexError: index {index} is out of range")
-    else:
-        print("No exception raised")
-    finally:
-        print("Finally block executed")
+# create a `requirements.txt` file using the `pip freeze` command
+# open the command prompt or terminal and navigate to the root directory of your project, then enter the following command:
+pip freeze > requirements.txt
 
-# test the function with a valid index
-my_list = [1, 2, 3, 4, 5]
-print(get_element_at_index(my_list, 2)) # output: 3
-# prints "No exception raised" and "Finally block executed"
+# create a local virtual environment using the `virtualenv` package
+# enter the following command in the command prompt or terminal:
+virtualenv venv
 
-# test the function with an invalid index
-print(get_element_at_index(my_list, 10)) # output: None
-# prints "IndexError: index 10 is out of range" and "Finally block executed"
+# activate the virtual environment
+# on Windows:
+# venv\Scripts\activate
+# on macOS/Linux:
+source venv/bin/activate
+
+# install dependencies from the `requirements.txt` file
+# enter the following command in the command prompt or terminal:
+pip install -r requirements.txt
 ```
 
-The code above demonstrates how to create a `try/except` block that includes a `finally` block and an `else` block. The `try` block contains the code that may raise an exception, while the `except` block handles the exception and prints an error message. The `else` block is used to execute code only if no exception is raised, and the `finally` block is used to execute code regardless of whether an exception is raised or not. This pattern is commonly used to ensure that certain cleanup code, such as closing a file or releasing a resource, is always executed, even if an exception occurs.
+The code above demonstrates how to create a `requirements.txt` file using the `pip freeze` command, create a local virtual environment using the `virtualenv` package, and install dependencies from the `requirements.txt` file. The `pip freeze` command is used to generate a list of dependencies for the current Python environment and save them to a `requirements.txt` file. The `virtualenv` package is used to create a local virtual environment for the project, which provides a separate Python environment with its own dependencies. The `pip install -r requirements.txt` command is used to install the dependencies listed in the `requirements.txt` file into the virtual environment. This ensures that the project dependencies are isolated from the system-level Python environment and can be easily managed and shared.
 
 ## Video Solution 📹
 

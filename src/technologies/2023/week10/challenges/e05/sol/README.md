@@ -6,23 +6,34 @@
 
 <h1 align="center">Solution</h1>
 
-# Calculating the number of days between two dates
-
-
+# Create a Try/Except where code is executed if no exception is raised and regardless of whether an exception is raised or not and specifically if an exception is raised
 
 ## Solution 🏁
-    
+
 ```python
-import datetime
 
-date1 = datetime.date(2022, 3, 1)
-date2 = datetime.date(2022, 3, 15)
-delta = date2 - date1
-print("There are", delta.days, "days between", date1.strftime("%Y-%m-%d"), "and", date2.strftime("%Y-%m-%d")) # Output: There are 5 days between 2023-05-21 and 2023-05-26
+# create a simple function that takes a list and an index and returns the element at that index
+def get_element_at_index(my_list, index):
+    try:
+        return my_list[index]
+    except IndexError:
+        print(f"IndexError: index {index} is out of range")
+    else:
+        print("No exception raised")
+    finally:
+        print("Finally block executed")
 
+# test the function with a valid index
+my_list = [1, 2, 3, 4, 5]
+print(get_element_at_index(my_list, 2)) # output: 3
+# prints "No exception raised" and "Finally block executed"
+
+# test the function with an invalid index
+print(get_element_at_index(my_list, 10)) # output: None
+# prints "IndexError: index 10 is out of range" and "Finally block executed"
 ```
 
-In this program, we imported the datetime module and created two date objects representing March 1st and March 15th, 2022. We then subtracted the first date from the second date to calculate a timedelta object, and used the days attribute to retrieve the number of days between the two dates. Finally, we formatted the dates as strings using the strftime method and printed the result to the console.
+The code above demonstrates how to create a `try/except` block that includes a `finally` block and an `else` block. The `try` block contains the code that may raise an exception, while the `except` block handles the exception and prints an error message. The `else` block is used to execute code only if no exception is raised, and the `finally` block is used to execute code regardless of whether an exception is raised or not. This pattern is commonly used to ensure that certain cleanup code, such as closing a file or releasing a resource, is always executed, even if an exception occurs.
 
 ## Video Solution 📹
 

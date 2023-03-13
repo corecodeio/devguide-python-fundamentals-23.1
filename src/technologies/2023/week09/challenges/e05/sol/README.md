@@ -15,10 +15,10 @@
 ```python
 import datetime
 
-date1 = datetime.date(2022, 3, 1)
-date2 = datetime.date(2022, 3, 15)
+date1 = datetime.date(2023, 3, 1)
+date2 = datetime.date(2023, 3, 15)
 delta = date2 - date1
-print("There are", delta.days, "days between", date1.strftime("%Y-%m-%d"), "and", date2.strftime("%Y-%m-%d")) # Output: There are 5 days between 2023-05-21 and 2023-05-26
+print("There are", delta.days, "days between", date1.strftime("%Y-%m-%d"), "and", date2.strftime("%Y-%m-%d")) # Output: There are 14 days between 2023-03-01 and 2023-03-15
 
 ```
 
