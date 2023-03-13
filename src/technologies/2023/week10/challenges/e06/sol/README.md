@@ -27,7 +27,7 @@ greet("John") # Hello, John!
 greet(123) # TypeError: Name must be a string
 ```
 
-# In this exercise, we learned how to use the `isinstance()` function to check the type of an argument passed to a function. We used this to raise a `TypeError` exception when a non-string argument is passed to our `greet()` function. This helps to ensure that our code is robust and handles unexpected inputs gracefully. 
+In this exercise, we learned how to use the `isinstance()` function to check the type of an argument passed to a function. We used this to raise a `TypeError` exception when a non-string argument is passed to our `greet()` function. This helps to ensure that our code is robust and handles unexpected inputs gracefully. 
 
 ## Video Solution 📹
 
