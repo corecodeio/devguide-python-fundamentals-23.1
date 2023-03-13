@@ -22,3 +22,4 @@ Finally, we calculate the average by dividing the `total_sum` by the count, we s
 ## Video Solution 📹
 
 [Average](https://drive.google.com/file/d/1wVy6TnXmwOJvH6RZ1lASgoczbSAa3AdV/view?usp=sharing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iR4B5-TDLb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

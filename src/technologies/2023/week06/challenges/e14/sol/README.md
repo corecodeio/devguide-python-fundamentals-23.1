@@ -22,3 +22,4 @@ Finally, the code prints the reversed dictionary to verify that it has been cons
 ## Video Solution 📹
 
 [Reverse Dictionary](https://drive.google.com/file/d/18sFzSlPgCLRg88bQRpTsPaseXvqTrFbX/view?usp=sharing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0EYiuldBKy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

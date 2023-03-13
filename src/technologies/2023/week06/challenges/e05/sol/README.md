@@ -19,3 +19,4 @@ The program then prints the formatted string to the console using the `print()` 
 ## Video Solution 📹
 
 [Temperature](https://drive.google.com/file/d/1l-8CWCz2TjAP1UBMfpsx8XJ-6hh3sgnT/view?usp=sharing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/scdUvA91yCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

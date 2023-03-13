@@ -17,3 +17,4 @@ This code takes two lists as input, and first merges them using the `+` operator
 ## Video Solution 📹
 
 [Merge Lists without Duplicates](https://drive.google.com/file/d/19xGZD-WSTzD2xnxh-7mBsUnsZOaQEVOt/view?usp=sharing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I6-oQS8eVUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

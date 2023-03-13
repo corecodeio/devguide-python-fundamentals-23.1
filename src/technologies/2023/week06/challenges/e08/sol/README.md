@@ -16,3 +16,4 @@ The modified string is stored in a new variable called result, and we print it t
 ## Video Solution 📹
 
 [Space replacing](https://drive.google.com/file/d/1Gn5ij_PI-rWRiIabjSw1izRmvofu2IrF/view?usp=sharing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q5s4IdTtsvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

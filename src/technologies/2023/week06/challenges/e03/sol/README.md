@@ -18,3 +18,4 @@ The third line of the code uses the `print()` function to display a personalized
 ## Video Solution 📹
 
 [String greeting](https://drive.google.com/file/d/1F7U8TCNx_Rj6Ft_bt6Uolm-hsQUfxT7L/view?usp=sharing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WadCFTe4qDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

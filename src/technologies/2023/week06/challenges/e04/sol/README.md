@@ -19,3 +19,4 @@ Finally, it displays the first and last characters on the screen using the `prin
 ## Video Solution 📹
 
 [String index](https://drive.google.com/file/d/131EqN1jqGWwjED_M7UQchuDEhx0599aV/view?usp=sharing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4p4xdqvYwOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
