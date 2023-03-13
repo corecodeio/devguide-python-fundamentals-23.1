@@ -11,8 +11,6 @@
 ## Solution 🏁
 
 ```bash
-
-# create a simple function that takes a list and an index and returns the element at that index
 # create a `requirements.txt` file using the `pip freeze` command
 # open the command prompt or terminal and navigate to the root directory of your project, then enter the following command:
 pip freeze > requirements.txt
