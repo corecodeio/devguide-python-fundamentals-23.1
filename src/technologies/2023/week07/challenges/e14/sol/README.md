@@ -28,3 +28,4 @@ In general, when writing Python code, it's important to consider the time and me
 ## Video Solution 📹
 
 [Code Refactor](https://drive.google.com/file/d/1K3gVU4KOF_-bEnjc7a3GGI8SBjjtJFG6/view?usp=share_link)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jVwVVlh5GMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

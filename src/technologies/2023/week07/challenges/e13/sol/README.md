@@ -33,3 +33,4 @@ In general, if you only need to compute the sum of the first n natural numbers, 
 ## Video Solution 📹
 
 [Code complexity](https://drive.google.com/file/d/1MfVS6h0oQLhAeUEbf3H0p58i4BEH9C1t/view?usp=share_link)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H8WN9dBiTpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

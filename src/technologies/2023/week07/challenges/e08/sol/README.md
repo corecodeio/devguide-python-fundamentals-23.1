@@ -15,3 +15,4 @@ In this program, we start with num set to 0, and use a while loop to iterate thr
 ## Video Solution 📹
 
 [Printing Even Numbers Using a While Loop](https://drive.google.com/file/d/1zAqLSO-DhLp2zm0T8k-L_rsvyD8NKgCj/view?usp=share_link)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bCJs5w5ioEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

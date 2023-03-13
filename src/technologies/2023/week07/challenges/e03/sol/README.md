@@ -23,3 +23,4 @@ In this program, we use a for loop to iterate through each number in the list. W
 ## Video Solution 📹
 
 [Counting Even and Odd Numbers](https://drive.google.com/file/d/1GAp5H06nHVCflZCna1d0VRlUzcRCWW6g/view?usp=sharing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O_-W0a8Cx_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
