@@ -42,4 +42,4 @@ The key concept illustrated in this exercise is creating an array of objects, wh
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/1mTioEqemsJ7isHP7MuOX6OISLWKJz2ZC/view?usp=share_link)

@@ -30,4 +30,4 @@ The function uses two nested loops to compare adjacent elements in the list. The
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/10JpP43-yzF2bNOT3aOMI-7XuQl-qedIT/view?usp=share_link)

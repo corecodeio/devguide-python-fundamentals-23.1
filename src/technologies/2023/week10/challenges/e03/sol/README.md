@@ -36,4 +36,4 @@ The code above demonstrates how to install the `requests` package using PIP and 
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/1SeyW6VkjYmXucuLpUNLht_plw7PDwweJ/view?usp=share_link)

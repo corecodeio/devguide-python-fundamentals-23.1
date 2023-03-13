@@ -55,4 +55,4 @@ We then created an instance of the class called `john_account` and tested the me
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/1Gbut0oS_kbAv_C0hTeAorDy1eoqULKWe/view?usp=share_link)

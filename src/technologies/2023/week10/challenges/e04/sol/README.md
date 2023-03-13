@@ -34,4 +34,4 @@ The code above demonstrates how to create a `requirements.txt` file using the `p
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/1U4piFKWU4_FuuVeVK2K07Acsx8_DPL3F/view?usp=share_link)

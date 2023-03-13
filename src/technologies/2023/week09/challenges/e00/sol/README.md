@@ -28,4 +28,4 @@ In this program, we created an iterator called `name_iter` by calling the iter f
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/1v3GLIuEinlEfgOZuiJPN5N7BNjdYHgUc/view?usp=share_link)

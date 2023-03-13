@@ -31,4 +31,4 @@ In this exercise, we learned how to use the `isinstance()` function to check the
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/10nqR2Xbf1SgAhXLfLZzcjWHUR9OHFgbI/view?usp=share_link)

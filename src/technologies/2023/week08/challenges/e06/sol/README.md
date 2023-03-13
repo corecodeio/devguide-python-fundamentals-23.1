@@ -23,4 +23,4 @@ This code sorts a list of tuples input based on the second element of each tuple
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/1UH7q_5uHKxgaO01FKwaNyl5K_oMXcS4T/view?usp=share_link)

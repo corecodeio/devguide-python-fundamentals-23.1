@@ -79,4 +79,4 @@ print(bst.search(2))  # Output: False
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/1myo4EZ5V7_cNecXFi6HRcBpm7b8omBB8/view?usp=share_link)

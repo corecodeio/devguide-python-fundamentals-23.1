@@ -36,4 +36,4 @@ The code above demonstrates how to define a function that takes a Python diction
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/1PeW1xxQwqhwTIaWFQ5WQGa_riuwnCP7L/view?usp=share_link)

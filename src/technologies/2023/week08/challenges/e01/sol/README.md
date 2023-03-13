@@ -33,4 +33,4 @@ This code defines a list of strings called 'input', and then defines a function 
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/1lJQ5inR-LCAOCv4SCiDHvkXlTnTU-aA7/view?usp=share_link)

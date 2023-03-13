@@ -29,4 +29,4 @@ In this program, we imported the math module and used the ceil, floor, and pow f
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/1Fob7L5GqG_nhV7pdulh4y8lMjmYxaffN/view?usp=share_link)

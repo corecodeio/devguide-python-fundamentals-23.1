@@ -27,4 +27,4 @@ In this program, we defined a global variable called `x` and a function called `
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/1CvZMKyD3pz0DDx4V4KahKlfVAido50XO/view?usp=share_link)

@@ -37,4 +37,4 @@ In this program, we created a custom module called factorial that defines a func
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/1b0D4buXOenbLA0GYqN9W4Vk7R_3rZj1s/view?usp=share_link)

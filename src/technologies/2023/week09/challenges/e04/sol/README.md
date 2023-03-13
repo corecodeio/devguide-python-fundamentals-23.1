@@ -24,4 +24,4 @@ In this program, we imported the datetime module and used the now function to cr
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/1iS2Ra1ctD-DbvD7q-5d7TELgpTEXcwzt/view?usp=share_link)

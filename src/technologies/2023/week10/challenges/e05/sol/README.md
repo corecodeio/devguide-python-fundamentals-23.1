@@ -37,4 +37,4 @@ The code above demonstrates how to create a `try/except` block that includes a `
 
 ## Video Solution 📹
 
-[Counting Even and Odd Numbers](https://edpuzzle.com/assignments/6386b321c511ef40e3f4fb07/watch)
+[Video](https://drive.google.com/file/d/1b7Uc0eu2bQs_bK9gmTq0AlFFf0LnoDvl/view?usp=share_link)
