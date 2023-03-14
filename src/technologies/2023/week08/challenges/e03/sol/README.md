@@ -42,4 +42,4 @@ This is an implementation of the quickselect algorithm, which is used to find th
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/1R2C8ct2cFj1hCe_PGj6IRs_J0cVpdrWG/view?usp=share_link)
+[Video](https://youtu.be/n7QPVgGnLWc)

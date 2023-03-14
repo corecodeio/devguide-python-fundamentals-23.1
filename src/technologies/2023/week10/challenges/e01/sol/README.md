@@ -36,4 +36,4 @@ The code above demonstrates how to define a function that takes a Python diction
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/1PeW1xxQwqhwTIaWFQ5WQGa_riuwnCP7L/view?usp=share_link)
+[Video](https://youtu.be/k8YvvjRBNok)

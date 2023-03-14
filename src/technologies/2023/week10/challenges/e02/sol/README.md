@@ -40,4 +40,4 @@ The code above demonstrates several simple examples of creating RegEx patterns a
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/18ah9TVL8zMc3tEBDKjapOC3MhamhSWMf/view?usp=share_link)
+[Video](https://youtu.be/Q0tM6eloxWw)

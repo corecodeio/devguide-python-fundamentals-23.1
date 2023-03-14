@@ -27,4 +27,4 @@ In this program, we defined a global variable called `x` and a function called `
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/1CvZMKyD3pz0DDx4V4KahKlfVAido50XO/view?usp=share_link)
+[Video](https://youtu.be/uWjR2eIQVLM)

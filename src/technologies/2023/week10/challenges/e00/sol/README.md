@@ -32,4 +32,4 @@ The code above demonstrates how to define a function that reads a JSON file and 
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/1S-nXALmsPmBv49tkIcOCjqwGrALxwF_4/view?usp=share_link)
+[Video](https://youtu.be/iALKdLiL_qo)

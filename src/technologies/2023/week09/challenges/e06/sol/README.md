@@ -29,4 +29,4 @@ In this program, we imported the math module and used the ceil, floor, and pow f
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/1Fob7L5GqG_nhV7pdulh4y8lMjmYxaffN/view?usp=share_link)
+[Video](https://youtu.be/wNMek25LfCY)

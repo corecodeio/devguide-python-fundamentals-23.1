@@ -53,4 +53,4 @@ This is an implementation of the radix sort algorithm in Python. It sorts a list
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/1Zr--ZOVul1r0Rgr-sh75iCVAVRP6ge2z/view?usp=share_link)
+[Video](https://youtu.be/j378XC7icKY)

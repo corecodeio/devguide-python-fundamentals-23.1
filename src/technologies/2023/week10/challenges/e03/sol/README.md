@@ -36,4 +36,4 @@ The code above demonstrates how to install the `requests` package using PIP and 
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/1SeyW6VkjYmXucuLpUNLht_plw7PDwweJ/view?usp=share_link)
+[Video](https://youtu.be/EOrZCxtJU-0)

@@ -33,4 +33,4 @@ This code defines a list of strings called 'input', and then defines a function 
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/1lJQ5inR-LCAOCv4SCiDHvkXlTnTU-aA7/view?usp=share_link)
+[Video](https://youtu.be/U_CrBMOJrb0)

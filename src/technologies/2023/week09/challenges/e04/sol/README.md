@@ -24,4 +24,4 @@ In this program, we imported the datetime module and used the now function to cr
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/1iS2Ra1ctD-DbvD7q-5d7TELgpTEXcwzt/view?usp=share_link)
+[Video](https://youtu.be/YmhRIHYiAGA)

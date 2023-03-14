@@ -55,4 +55,4 @@ We then created an instance of the class called `john_account` and tested the me
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/1Gbut0oS_kbAv_C0hTeAorDy1eoqULKWe/view?usp=share_link)
+[Video](https://youtu.be/i3XrxmdMAl4)

@@ -42,4 +42,4 @@ The key concept illustrated in this exercise is creating an array of objects, wh
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/1mTioEqemsJ7isHP7MuOX6OISLWKJz2ZC/view?usp=share_link)
+[Video](https://youtu.be/lgOmIbZzSAg)

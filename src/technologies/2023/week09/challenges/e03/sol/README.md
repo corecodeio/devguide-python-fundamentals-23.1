@@ -37,4 +37,4 @@ In this program, we created a custom module called factorial that defines a func
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/1b0D4buXOenbLA0GYqN9W4Vk7R_3rZj1s/view?usp=share_link)
+[Video](https://youtu.be/YmhRIHYiAGA)

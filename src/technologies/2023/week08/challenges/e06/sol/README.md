@@ -23,4 +23,4 @@ This code sorts a list of tuples input based on the second element of each tuple
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/1UH7q_5uHKxgaO01FKwaNyl5K_oMXcS4T/view?usp=share_link)
+[Video](https://youtu.be/uAReKuh7jcM)

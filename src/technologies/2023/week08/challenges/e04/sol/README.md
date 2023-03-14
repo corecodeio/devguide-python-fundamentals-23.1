@@ -79,4 +79,4 @@ print(bst.search(2))  # Output: False
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/1myo4EZ5V7_cNecXFi6HRcBpm7b8omBB8/view?usp=share_link)
+[Video](https://youtu.be/nW72uPvpsN0)

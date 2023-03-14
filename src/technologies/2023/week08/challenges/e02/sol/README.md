@@ -56,4 +56,4 @@ This is an implementation of the merge sort algorithm, which uses the divide-and
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/1HJP4Mz4XPRo2wTlYozmumnEvozoe25nS/view?usp=share_link)
+[Video](https://youtu.be/nJEBGyiGknI)

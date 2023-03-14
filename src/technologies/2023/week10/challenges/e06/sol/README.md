@@ -31,4 +31,4 @@ In this exercise, we learned how to use the `isinstance()` function to check the
 
 ## Video Solution 📹
 
-[Video](https://drive.google.com/file/d/10nqR2Xbf1SgAhXLfLZzcjWHUR9OHFgbI/view?usp=share_link)
+[Video](https://youtu.be/LhBdAPWqcJU)
