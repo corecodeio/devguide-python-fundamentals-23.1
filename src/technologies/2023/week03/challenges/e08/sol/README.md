@@ -34,4 +34,4 @@ FinAlgoritmo
 
 ## Video Solution 📹
 
-[Greetings](https://edpuzzle.com/assignments/638f74c3e1234e40e18f63ff/watch)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L88RkxCNp7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

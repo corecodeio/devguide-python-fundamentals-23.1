@@ -34,8 +34,4 @@ FinAlgoritmo
 
 ## Video Solution 📹
 
-[Simple calculator](https://edpuzzle.com/assignments/637c55ea8a59d7410fb361d7/watch)
-
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gf39k7Znhm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

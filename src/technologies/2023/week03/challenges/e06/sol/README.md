@@ -29,4 +29,4 @@ FinAlgoritmo
 
 ## Video Solution 📹
 
-[Ascending and Descending Numbers](https://edpuzzle.com/assignments/638e6ad1614d4e40d861018f/watch)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vI6NCB3TV1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

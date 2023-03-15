@@ -19,4 +19,4 @@ FinAlgoritmo
 
 ## Video Solution 📹
 
-[Special number](https://edpuzzle.com/assignments/637c56b30486db413eaa2bf6/watch)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2yvOsYELAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -54,4 +54,4 @@ FinAlgoritmo
 
 ## Video Solution 📹
 
-[Multi Opcion](https://edpuzzle.com/assignments/638e6a620e79ba41059d3911/watch)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QTIdw9VfgJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
