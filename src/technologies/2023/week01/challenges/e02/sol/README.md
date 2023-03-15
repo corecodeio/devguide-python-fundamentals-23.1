@@ -13,4 +13,4 @@
 
 ## Video Solution 📹
 
-[Temperatures](https://edpuzzle.com/assignments/637d89f476dec54118c2198d/watch)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ae4iRDbMOnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

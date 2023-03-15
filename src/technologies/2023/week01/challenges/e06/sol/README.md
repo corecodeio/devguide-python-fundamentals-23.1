@@ -18,4 +18,4 @@ So the answer is chest A and chest C.
 
 ## Video Solution 📹
 
-[Treasure](https://edpuzzle.com/assignments/637d8a471ac95640fd945e3b/watch)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TB9rZmJmJDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

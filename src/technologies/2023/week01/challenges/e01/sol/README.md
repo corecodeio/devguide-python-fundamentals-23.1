@@ -13,4 +13,4 @@
 
 ## Video Solution 📹
 
-[Pizza](https://edpuzzle.com/assignments/637d89e27d46774111e31d41/watch)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3KSx0gskMrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

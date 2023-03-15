@@ -12,4 +12,4 @@
 
 ## Video Solution 📹
 
-[DOB](https://edpuzzle.com/assignments/637d8a2669656b40f6750a3f/watch)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kCX_hKqf2Cc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

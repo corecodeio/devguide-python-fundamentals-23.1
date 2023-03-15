@@ -21,4 +21,4 @@
 
 ## Video Solution 📹
 
-[Geometry](https://edpuzzle.com/assignments/637d8a079cdd24413bfabd75/watch)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/paPUCjMNV14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
