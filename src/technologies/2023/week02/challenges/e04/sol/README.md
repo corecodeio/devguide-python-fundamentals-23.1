@@ -11,4 +11,4 @@ FinAlgoritmo
 
 ## Video Solution 📹
 
-[Print my name & age](https://edpuzzle.com/assignments/637c56024e4fab40e02c1ebd/watch)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Raa3nTqO8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

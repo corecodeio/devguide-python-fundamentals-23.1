@@ -11,4 +11,4 @@ FinAlgoritmo
 
 ## Video Solution 📹
 
-[Mod](https://edpuzzle.com/assignments/637c5614457717412dd63669/watch)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4X7nZIZutGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
