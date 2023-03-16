@@ -23,4 +23,4 @@ FinAlgoritmo
 
 ## Video Solution 📹
 
-[Factorial](https://drive.google.com/file/d/1YSAJLK5XI-_OW9eKeeb7b32DnUqhkiIC/view?usp=share_link)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q6ZhWblyeaw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

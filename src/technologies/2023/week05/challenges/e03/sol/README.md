@@ -11,4 +11,4 @@ print("Is Number: {}".format(is_number))
 
 ## Video Solution 📹
 
-[Is Number](https://drive.google.com/file/d/1RfxI_XwF6eQ8rVnqYNEQcq890FDHyfT9/view?usp=share_link)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CWWfwepAPEE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

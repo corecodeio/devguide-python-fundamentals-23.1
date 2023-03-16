@@ -16,4 +16,4 @@ print("Mult: {}".format(mult_result))
 
 ## Video Solution 📹
 
-[Sum & Mult](https://drive.google.com/file/d/1xn3ksuXjBWDYKkp7iU6SmHVFlcqL5orO/view?usp=share_link)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66KlQA7j7UE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -26,4 +26,4 @@ FinAlgoritmo
 
 ## Video Solution 📹
 
-[Double and triple of a value](https://drive.google.com/file/d/1cxdI1wnMvYjiZ98kounkgK0CQ4f-lUzN/view?usp=share_link)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9cFT-74EFPQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
