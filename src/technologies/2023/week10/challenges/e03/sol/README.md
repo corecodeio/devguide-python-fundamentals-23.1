@@ -36,4 +36,4 @@ The code above demonstrates how to install the `requests` package using PIP and 
 
 ## Video Solution 📹
 
-[Video](https://youtu.be/EOrZCxtJU-0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EOrZCxtJU-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

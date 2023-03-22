@@ -34,4 +34,4 @@ The code above demonstrates how to create a `requirements.txt` file using the `p
 
 ## Video Solution 📹
 
-[Video](https://youtu.be/kbzFasLVkG4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kbzFasLVkG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -31,4 +31,4 @@ We then updated the value of `x` to 10 and called `inner` again to confirm that 
 
 ## Video Solution 📹
 
-[Video](https://youtu.be/dRqEua7Wy6g)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dRqEua7Wy6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

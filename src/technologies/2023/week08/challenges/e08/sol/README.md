@@ -55,4 +55,4 @@ We then created an instance of the class called `john_account` and tested the me
 
 ## Video Solution 📹
 
-[Video](https://youtu.be/i3XrxmdMAl4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i3XrxmdMAl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

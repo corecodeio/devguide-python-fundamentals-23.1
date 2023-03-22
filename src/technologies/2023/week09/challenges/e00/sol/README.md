@@ -28,4 +28,4 @@ In this program, we created an iterator called `name_iter` by calling the iter f
 
 ## Video Solution 📹
 
-[Video](https://youtu.be/pxnpLypu1GY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pxnpLypu1GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

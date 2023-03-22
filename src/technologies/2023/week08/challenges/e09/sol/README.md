@@ -50,4 +50,4 @@ The key concept illustrated in this exercise is inheritance, where we created a 
 
 ## Video Solution 📹
 
-[Video](https://youtu.be/zJq6NMut8gk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zJq6NMut8gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

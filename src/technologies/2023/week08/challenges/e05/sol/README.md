@@ -37,4 +37,4 @@ The interpolation_search function takes two arguments - an input array and a val
 
 ## Video Solution 📹
 
-[Video](https://youtu.be/U8IjI85Uc0c)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U8IjI85Uc0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

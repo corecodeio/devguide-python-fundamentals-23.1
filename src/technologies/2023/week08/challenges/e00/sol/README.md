@@ -30,4 +30,4 @@ The function uses two nested loops to compare adjacent elements in the list. The
 
 ## Video Solution 📹
 
-[Video](https://youtu.be/6_xBHxB_k8o)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6_xBHxB_k8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

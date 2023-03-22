@@ -32,4 +32,4 @@ The code above demonstrates how to define a function that reads a JSON file and 
 
 ## Video Solution 📹
 
-[Video](https://youtu.be/iALKdLiL_qo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iALKdLiL_qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

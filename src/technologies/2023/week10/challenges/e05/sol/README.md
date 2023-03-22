@@ -37,4 +37,4 @@ The code above demonstrates how to create a `try/except` block that includes a `
 
 ## Video Solution 📹
 
-[Video](https://youtu.be/DM751zfjneQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DM751zfjneQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
