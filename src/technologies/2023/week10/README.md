@@ -45,6 +45,11 @@
 1. [Create a Try/Except where code is executed if no exception is raised and regardless of whether an exception is raised or not and specifically if an exception is raised](./challenges/e05/desc)
 2. [Raise a Type Exception when a function is called with a non-string argument](./challenges/e06/desc)
 
+## Mini projects 🚀
+
+1. [Data Analysis Implementation](./miniprojects/mp01/desc)
+2. [Tic Tac Toe](./miniprojects/mp02/desc)
+
 ## Week links 🔗
 
 ## Session links 🔗
