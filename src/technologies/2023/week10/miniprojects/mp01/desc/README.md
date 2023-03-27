@@ -18,7 +18,7 @@ You can find the Jupyter Notebook file in:
 
 Along with the respective datasets in:
 
-[Datasets](https://github.com/corecodeio/devguide-python-fundamentals-23.1/tree/main/src/technologies/2023/week10/miniprojects/mp01/assets/datasets)
+[Datasets](https://github.com/corecodeio/devguide-python-fundamentals-23.1/tree/main/src/technologies/2023/week10/miniprojects/mp01/assets/datasets/)
 
 ## Expected output
 
