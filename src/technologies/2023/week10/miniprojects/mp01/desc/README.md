@@ -10,7 +10,7 @@
 
 ## Description
 
-You will be provided with y Python Jupyter Notebook file with a set of intructions. You will need to implement the functions that are required in order to complete the project.
+You will be provided with a Python Jupyter Notebook file with a set of intructions. You will need to implement the functions that are required in order to complete the project.
 
 You can find the Jupyter Notebook file in: 
 

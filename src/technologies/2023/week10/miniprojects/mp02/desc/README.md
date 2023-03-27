@@ -10,7 +10,7 @@
 
 ## Description
 
-For this mini project you will have to create a Console Application that will consists of a game of Tic Tac Toe. The game will be multiplayer and all the graphics will be done using ASCII characters in the console.
+For this mini project you will have to create a Console Application that will consist of a game of Tic Tac Toe. The game will be multiplayer and all the graphics will be done using ASCII characters in the console.
 
 You may use an array to store the board, but you will have to print it as is shown in the example below.
 
@@ -30,6 +30,8 @@ For this project, you will have to use the following concepts:
 The game will be played by two players, one will be X and the other will be O. The first player will be X and the second player will be O. For the input, you will ask for the number of the cell where the player wants to place his mark. The cells will be numbered from 1 to 9 as shown in the example below.
 
 ## Expected output
+
+![alt text](../assets/example3.png 'example')
 
 ![alt text](../assets/example.png 'example')
 
